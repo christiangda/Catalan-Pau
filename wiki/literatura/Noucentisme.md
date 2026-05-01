@@ -1,6 +1,6 @@
 ---
 type: moviment
-status: developing
+status: mature
 periode: "s. XX (1906-1923)"
 tags: [literatura, moviment]
 created: 2026-05-01
@@ -11,23 +11,38 @@ updated: 2026-05-01
 
 **Període:** s. XX (≈ 1906–1923)
 
-## Característiques
-- Voluntat d'**ordre, claredat i racionalitat**
-- Defensa d'un art culte i mediterrani
-- Connexió amb projectes polítics de modernització (Mancomunitat)
-- Reacció contra l'individualisme modernista
+## Context
+- **Reacció al [[Modernisme]]**.
+- Catalunya en procés de **modernització política i cultural**.
 
-## Autors
-- [[Josep Carner]]
-- [[Eugeni d'Ors]]
-- [[Carles Riba]]
-- [[Guerau de Liost]]
+## Objectius
+- **Normalitzar i modernitzar** la cultura catalana.
+- Consolidar la llengua com a **llengua de prestigi**.
+- Construir una **identitat cultural i institucional moderna**.
 
-## Obres representatives
-- *Els fruits saborosos* (Carner)
-- *Glosari* (Eugeni d'Ors)
-- *Estances*; *Elegies de Bierville* (Riba)
+## Ideologia i valors
+- **Ordre, racionalitat, disciplina**.
+- Estètica **clàssica i mediterrània**.
+- Defensa d'un **art culte, equilibrat i harmònic**.
+- Reacció contra l'individualisme modernista.
+
+## Projectes i institucions clau
+> [!key-insight] El Noucentisme no és només estètica: és un **projecte polític-cultural**.
+- **Mancomunitat de Catalunya**
+- **Institut d'Estudis Catalans (IEC)**
+- **Biblioteca de Catalunya**
+- L'obra codificadora de **[[Pompeu Fabra]]** s'inscriu en aquest marc.
+
+## Autors i obres
+- [[Eugeni d'Ors]] — *Glosari*, *La ben plantada*
+- [[Josep Carner]] — *Els fruits saborosos* (el "**príncep dels poetes**")
+- [[Carles Riba]] — *Estances*
+- [[Guerau de Liost]] — *La muntanya d'ametistes*
+
+## Resum
+El Noucentisme és un moviment cultural i literari (≈ 1906–1923). Tot i compartir amb el Modernisme la voluntat de renovació cultural, dóna molta importància a la **modernització social**. Per això es promouen projectes com la Mancomunitat, la Biblioteca de Catalunya o la normalització lingüística. Autors clau: Eugeni d'Ors, Josep Carner i Carles Riba.
 
 ## Fonts
 - [[src-autors-XIX-XXI]]
 - [[src-moviments-XVIII-XXI]]
+- [[src-temari-2batx-md]] (secció *Noucentisme*)
