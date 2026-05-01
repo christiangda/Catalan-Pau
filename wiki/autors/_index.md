@@ -27,7 +27,7 @@ tags: [autors]
 
 ## Segle XX
 - [[Joan Maragall]] · [[Santiago Rusinol]] · [[Victor Catala]] · [[Raimon Casellas]] — [[Modernisme]]
-- [[Josep Carner]] · [[Eugeni d'Ors]] · [[Carles Riba]] · [[Guerau de Liost]] — [[Noucentisme]]
+- [[Josep Carner]] · [[Eugeni d'Ors]] · [[Carles Riba]] · [[Guerau de Liost]] · [[Pompeu Fabra]] — [[Noucentisme]]
 - [[Joan Salvat-Papasseit]] · [[J.V. Foix]] · [[Josep Maria de Sagarra]] — [[Avantguardes]]
 - [[Salvador Espriu]] · [[Pere Quart]] · [[Merce Rodoreda]] — [[Guerra-i-Postguerra]]
 - [[Manuel de Pedrolo]] · [[Montserrat Roig]] · [[Maria Aurelia Capmany]] · [[Lluis Llach]] · [[Raimon]] — [[Anys-60-80]]
