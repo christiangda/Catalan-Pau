@@ -10,7 +10,7 @@ tags: [obres]
 Un fitxer per obra: argument, personatges, temes, estructura, fragments clau, possibles preguntes d'examen.
 
 ## Llista
-_(buit — confirmar lectures obligatòries del curs actual i afegir-les)_
+- ⭐ [[Mirall trencat]] — Mercè Rodoreda (lectura obligatòria confirmada)
 
 ## Què cal saber per a cada obra
 - Context històric i biogràfic de l'autor
