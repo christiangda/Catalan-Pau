@@ -16,4 +16,5 @@ Notes sobre regles, normes i convencions de la llengua catalana.
 - **Lèxic** — formació de mots, derivació, composició, manlleus
 
 ## Notes
-_(buit — afegir notes a mesura que s'estudien)_
+- [[Variants dialectals]] — bloc oriental i occidental
+- [[Tipologies textuals]] — explicatiu, argumentatiu, descriptiu, narratiu, predictiu, instructiu
