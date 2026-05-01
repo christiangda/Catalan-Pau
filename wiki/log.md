@@ -10,6 +10,11 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-01 — Tancament de sessió
+
+- MCP `obsidian-vault` reconfigurat a port 27124 amb la nova API key. Pendent reinici de Claude Code per activar.
+- Hot cache i log actualitzats per recuperar context fàcilment a la propera sessió.
+
 ## 2026-05-01 — Enriquiment de pàgines de moviments existents
 
 Actualitzades amb la informació detallada del temari (que abans només estava al `src-temari-2batx-md`):
