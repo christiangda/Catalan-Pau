@@ -10,6 +10,22 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-01 — Enriquiment de pàgines de moviments existents
+
+Actualitzades amb la informació detallada del temari (que abans només estava al `src-temari-2batx-md`):
+
+- [[Renaixenca]] — afegit Memorial de Greuges, Decrets de Nova Planta, Jocs Florals com a context, [[Pompeu Fabra]]
+- [[Realisme-i-Naturalisme]] — context positivista, anàlisi psicològica, distinció Naturalisme/Realisme
+- [[Modernisme]] — influències detallades (simbolisme, decadentisme, esteticisme), "art per l'art", crisi existencial
+- [[Noucentisme]] — Mancomunitat, IEC, Biblioteca de Catalunya, [[Pompeu Fabra]] com a referència
+- [[Avantguardes]] — taula amb futurisme/dadaisme/expressionisme/surrealisme
+- [[Guerra-i-Postguerra]] — tres camins (exili, resistència, silenci), enllaç a [[Mirall trencat]]
+- [[Anys-60-80]] — Nova Cançó com a eina cultural
+
+**Nova pàgina:** [[Pompeu Fabra]] (stub) — figura clau de la normalització lingüística que es referenciava de múltiples pàgines.
+
+Status passat de `developing` a `mature` per a aquestes 7 pàgines de moviments.
+
 ## 2026-05-01 — Ingesta del temari complet (Markdown 2 Batx)
 
 Ingerit `.raw/temari/general/Copia de Català 2Batx.md` (2.332 línies, ~164 KB).
