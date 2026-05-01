@@ -10,4 +10,7 @@ tags: [sintesi]
 Mapes de conceptes, resums propis, comparatives entre obres/autors, preparació de l'examen final.
 
 ## Notes
-_(buit)_
+- [[Sociolinguistica - conceptes basics]] — bilingüisme, diglòssia, conflicte lingüístic
+- [[Familias linguistiques]] — indoeuropeu, romàniques, llatí
+- [[Història de la llengua catalana]] — Edat Mitjana → s. XXI
+- [[Topics literaris]] — carpe diem, ubi sunt, locus amoenus, etc.
