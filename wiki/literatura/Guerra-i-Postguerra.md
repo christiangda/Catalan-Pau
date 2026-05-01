@@ -1,6 +1,6 @@
 ---
 type: moviment
-status: developing
+status: mature
 periode: "s. XX (1939-1959)"
 tags: [literatura, moviment]
 created: 2026-05-01
@@ -11,24 +11,29 @@ updated: 2026-05-01
 
 **Període:** s. XX (Guerra Civil i postguerra)
 
-## Característiques
-- **Censura i repressió cultural** (prohibició del català)
-- Ús de **símbols i metàfores** per esquivar la censura
-- Nostàlgia i sentiment de pèrdua
-- Literatura d'exili (Rodoreda, Riba)
+## Context
+- Després de la Guerra Civil espanyola (1936–1939).
+- **Prohibició del català** i repressió cultural pel franquisme.
+- **Exili intel·lectual** i silenciament literari.
 
-## Autors
-- [[Salvador Espriu]]
-- [[Pere Quart]] (Joan Oliver)
-- [[Merce Rodoreda]]
-- [[Carles Riba]]
+## Característiques de la literatura
+- **Censura estricta**.
+- Ús de **símbols, metàfores i llenguatge indirecte** per esquivar la censura.
+- Temes de **nostàlgia, dolor, record i pèrdua**.
+- Voluntat de **preservació cultural i identitat catalana**.
 
-## Obres representatives
-- *Cementiri de Sinera*; *Setmana Santa* (Espriu)
-- *Bestiari* (Pere Quart)
-- *[[La placa del Diamant]]* (Rodoreda)
-- *Elegies de Bierville* (Riba — escrites a l'exili)
+> Tres camins per als escriptors: **exili, lluita resistent a l'interior, silenci**.
+
+## Autors principals
+- [[Salvador Espriu]] — *Cementiri de Sinera*, *La pell de brau*
+- [[Pere Quart]] (Joan Oliver) — *Bestiari*
+- [[Merce Rodoreda|Mercè Rodoreda]] — *[[Mirall trencat]]* ⭐, *[[La placa del Diamant|La plaça del Diamant]]*
+- [[Carles Riba]] — *Elegies de Bierville* (escrites a l'exili)
+
+## Resum
+La Guerra Civil i la postguerra comporten censura i repressió cultural, fet que obliga els autors catalans a utilitzar símbols, metàfores i llenguatge suggerit per esquivar la prohibició. La literatura expressa sovint nostàlgia, dolor i sentiment de pèrdua, però també voluntat de resistència cultural. Triomfen la **novel·la psicològica** i el **realisme màgic**.
 
 ## Fonts
 - [[src-autors-XIX-XXI]]
 - [[src-moviments-XVIII-XXI]]
+- [[src-temari-2batx-md]] (seccions *Guerra i postguerra* + *Mirall trencat*)
