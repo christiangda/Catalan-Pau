@@ -23,6 +23,7 @@ Catàleg mestre de tots els continguts de la wiki. S'actualitza a cada ingest.
 - [[autors/_index]] — 45 autors
 
 ## Fonts
+- [[sources/src-temari-2batx-md]] ⭐ — temari complet 2n batxillerat
 - [[sources/src-autors-XII-XVIII]]
 - [[sources/src-moviments-XII-XVIII]]
 - [[sources/src-autors-XIX-XXI]]
