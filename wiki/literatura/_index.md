@@ -9,14 +9,31 @@ tags: [literatura]
 
 Moviments, èpoques i gèneres de la literatura catalana.
 
-## Períodes
-- **Edat Mitjana** — Ramon Llull, Ausiàs March, Tirant lo Blanc
-- **Renaixença** (s. XIX) — Verdaguer, Guimerà, Narcís Oller
-- **Modernisme** (1890–1911) — Maragall, Rusiñol, Víctor Català
-- **Noucentisme** (1906–1923) — Carner, Riba, Eugeni d'Ors
-- **Avantguardes i època de la República**
-- **Postguerra i exili** — Rodoreda, Espriu, Pere Calders
-- **Literatura contemporània** (1975–avui)
+## Línia del temps
 
-## Notes
-_(buit)_
+### Edat Mitjana
+- [[Trobadorisme]] (s. XII–XIII)
+- [[Croniques|Cròniques]] (s. XIII–XIV)
+- [[Humanisme]] (s. XIV)
+- [[Lirica-Ausias-March|Lírica d'Ausiàs March]] (s. XV)
+- [[Novel-la-cavalleresca|Novel·la cavalleresca]] (s. XV)
+
+### Edat Moderna
+- [[Renaixement]] (s. XVI)
+- [[Barroc]] (s. XVII) — *època de Decadència*
+- [[Il-lustracio-i-Neoclassicisme|Il·lustració i Neoclassicisme]] (s. XVIII)
+
+### Segle XIX
+- [[Romanticisme]]
+- [[Renaixenca|Renaixença]]
+- [[Realisme-i-Naturalisme|Realisme i Naturalisme]]
+
+### Segle XX
+- [[Modernisme]] (≈1890–1911)
+- [[Noucentisme]] (≈1906–1923)
+- [[Avantguardes]] (entreguerres)
+- [[Guerra-i-Postguerra]]
+- [[Anys-60-80]]
+
+### Segle XX–XXI
+- [[Postmodernitat]]
