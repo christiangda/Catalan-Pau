@@ -17,10 +17,16 @@ Catàleg mestre de tots els continguts de la wiki. S'actualitza a cada ingest.
 - [[gramatica/_index]]
 
 ## Literatura
-- [[literatura/_index]]
+- [[literatura/_index]] — 17 moviments (s. XII → XXI)
 
 ## Autors
-- [[autors/_index]]
+- [[autors/_index]] — 45 autors
+
+## Fonts
+- [[sources/src-autors-XII-XVIII]]
+- [[sources/src-moviments-XII-XVIII]]
+- [[sources/src-autors-XIX-XXI]]
+- [[sources/src-moviments-XVIII-XXI]]
 
 ## Obres (lectures obligatòries)
 - [[obres/_index]]
