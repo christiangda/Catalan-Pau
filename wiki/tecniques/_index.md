@@ -7,11 +7,12 @@ tags: [tecniques]
 
 # Tècniques d'examen
 
-## Apartats
-- [[Comentari de text]] — estructura i passos
-- [[Redacció argumentativa]] — tesi, arguments, contraarguments, conclusió
-- [[Anàlisi sintàctica]] — procediment
-- [[Anàlisi mètrica]] — versos, rima, figures retòriques
+## Teoria literària
+- [[La narrativa - teoria]] — trama, temps, espai, personatges, narrador, gèneres
+- [[La poesia - teoria metrica]] — vers, rima, estrofa, figures, gèneres lírics
+- [[El teatre - teoria]] — text dramàtic, acotacions, actes/escenes, subgèneres
 
-## Notes
-_(buit)_
+## Pendent
+- Comentari de text (estructura)
+- Redacció argumentativa
+- Anàlisi sintàctica
