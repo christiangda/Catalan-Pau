@@ -9,8 +9,11 @@ tags: [examens]
 
 Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors comuns.
 
+## Recursos
+- [[Banc preguntes PAU]] — preguntes tipus + V/F amb resposta breu
+
 ## Per any
-_(buit — afegir a `.raw/examens-pau/` i ingerir)_
+_(pendent: ingerir exàmens oficials de `.raw/examens-pau/`)_
 
 ## Patrons recurrents
 A omplir un cop ingerits diversos exàmens.
