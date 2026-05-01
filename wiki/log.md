@@ -10,6 +10,29 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-01 — Ingesta del temari complet (Markdown 2 Batx)
+
+Ingerit `.raw/temari/general/Copia de Català 2Batx.md` (2.332 línies, ~164 KB).
+
+**Pàgines noves:**
+- ⭐ [[Mirall trencat]] — anàlisi completa de la lectura obligatòria (`wiki/obres/`)
+- [[Sociolinguistica - conceptes basics]], [[Familias linguistiques]], [[Història de la llengua catalana]] (`wiki/sintesi/`)
+- [[Variants dialectals]], [[Tipologies textuals]] (`wiki/gramatica/`)
+- [[La narrativa - teoria]], [[La poesia - teoria metrica]], [[El teatre - teoria]] (`wiki/tecniques/`)
+- [[Topics literaris]] (`wiki/sintesi/`)
+- [[Banc preguntes PAU]] (`wiki/examens/`)
+- [[src-temari-2batx-md]] (`wiki/sources/`)
+
+**Pàgines actualitzades:**
+- [[Merce Rodoreda]] de stub a developing (biografia, exili, estil)
+- `_index.md` de gramatica, tecniques, sintesi, examens, obres
+- `index.md` mestre
+
+**Funcions clau detectades:**
+- *Mirall trencat* és **lectura obligatòria** de la PAU (750 línies del temari dedicades).
+- *La plaça del Diamant* apareix també com a referència recurrent.
+- Els 17 moviments literaris ja estaven al wiki (de la tanda 1) i el temari els confirma.
+
 ## 2026-05-01 — Tanda 1 ingerida (literatura: panoràmica)
 
 Ingerits 4 PDFs de `.raw/temari/literatura/`:
