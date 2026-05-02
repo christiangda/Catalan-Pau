@@ -64,6 +64,6 @@ A la pregunta sobre **els coloms**: simbolitzen la invasió de l'espai vital de 
 
 - [[Merce Rodoreda]] — autora
 - [[Mirall trencat]] — obra també de Rodoreda, lectura prescriptiva PAU
-- [[Postguerra|Guerra-i-Postguerra]] — context històric
+- [[Guerra-i-Postguerra]] — context històric
 - [[Banc preguntes PAU]] — V/F oficials de l'examen
 - [[La narrativa - teoria]] — narrador, temps, focalització
