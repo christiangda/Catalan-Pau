@@ -5,7 +5,7 @@ title: "La plaça del Diamant"
 autor: "[[Merce Rodoreda|Mercè Rodoreda]]"
 any: 1962
 genere: novel·la
-moviment: "[[Postguerra]]"
+moviment: "[[Guerra-i-Postguerra]]"
 tags: [obra, lectura-pau, novel·la, postguerra, rodoreda]
 created: 2026-05-02
 updated: 2026-05-02
