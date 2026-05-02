@@ -16,6 +16,7 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 ## Per any
 
 ### 2025
+- [[PAU 2025 setembre]] ✅ — Sèrie 3, conv. extraordinària. Text: argumentatiu-expositiu sobre alimentació alternativa sostenible (Càtedra AgroBank, 2018). Poema Bloc 1: Josep Carner, «Cançoneta incerta» (3 estrofes 8 vv., octosíl·labs/tetrasíl·labs, prosopopeia). Reflexió: funcions sint. (CC/sub.sust.CD/relatiu locatiu/CN/CD), parells confusos (*per què/perquè*, *massa/gaire*, *en lloc/enlloc*, *gens/res*, *sinó/si no*), verbs registre formal (*conec, doni, begueu, conclòs, pugueu*), grafies [s], derivació (*maror, dormilec, feinejava, enrogallat, simplificar*), 5 errors ortogràfics, dialecte nord-occidental. Expressió: reescriptura present→imperfet + text formal 125-150 paraules (equilibri recursos naturals). Cap lectura obligatòria preguntada.
 - [[PAU 2025 juny]] ✅ — Sèrie 1, conv. ordinària. Text: Joan Maria Boronat i Pujals, «La gentrificació verda, el perill obviat» (argumentatiu-expositiu). Poema Bloc 1: [[Joan Alcover]], «Desolació» (sonet alexandrí, polisíndeton, hipèrbaton). Reflexió: funcions sint., parells confusos, verbs irregulars, grafies [tʃ], derivació nominal, correcció ortogràfica, dialecte rossellonès. Expressió: reescriptura present→imperfet + text formal turisme massiu.
 
 ### 2024
