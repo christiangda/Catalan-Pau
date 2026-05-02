@@ -10,6 +10,37 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Lint cleanup: 5 agents en paral·lel
+
+Després del re-lint focalitzat, neteja per particionament de fitxers (cap solapament entre agents).
+
+**Renames** (`git mv`, preserven història):
+- `wiki/obres/La placa del Diamant.md` → `La plaça del Diamant.md`
+- `wiki/obres/Aigues encantades.md` → `Aigües encantades.md`
+- `wiki/sintesi/Familias linguistiques.md` → `Famílies lingüístiques.md` (corregit error ortogràfic castellà)
+
+**Fixes mecànics:**
+- `wiki/obres/La plaça del Diamant.md`: `[[Postguerra]]` → `[[Guerra-i-Postguerra]]` (frontmatter + cos)
+- `wiki/sources/src-figures-retoriques.md`: 4 mismatches diacrítics resolts amb alias o nom correcte (Ausiàs March, Maria-Merce Marcal, Miquel Marti i Pol, Francesc Vicent Garcia)
+- `wiki/sources/src-teatre-pdf.md`: `Josep M. Benet i Jornet` → `Josep M Benet i Jornet` (sense punts)
+- `wiki/sintesi/Sociolinguistica - conceptes basics.md`: `[[Famílies linguístiques]]` → `[[Famílies lingüístiques]]`
+- `wiki/index.md`: 11 ocurrències `[[sources/src-X]]` → `[[src-X]]`
+- `wiki/gramatica/Fonetica - canvis fonetics.md`: 1 ocurrència
+- `wiki/obres/_index.md` i `wiki/hot.md`: simplificats wikilinks a *Plaça* i *Aigües* (eliminat alias)
+
+**Stubs creats** (10 totals):
+- Autors PAU: [[Josep Pla]], [[Pere Calders]], [[Gabriel Ferrater]]
+- Obres canòniques: [[Tirant lo Blanc]], [[Solitud]], [[Oda a la patria|Oda a la pàtria]]
+- Concepte Renaixença: [[Jocs Florals]]
+- Autors menors: [[Joan Vinyoli]], [[Marius Torres]], [[Jordi de Sant Jordi]]
+
+**Índexs sincronitzats** (sequencialment, post-agents):
+- [[autors/_index]] — afegits 8 autors a les seccions corresponents
+- [[obres/_index]] — afegides 3 obres
+- [[sintesi/_index]] — afegit [[Jocs Florals]]; corregit `Familias` → `Famílies lingüístiques`
+
+---
+
 ## 2026-05-02 — Síntesi tanda 5: patrons PAU 2022-2025
 
 Després d'ingerir 8 convocatòries en paral·lel, síntesi de patrons + creació d'stubs crítics.
