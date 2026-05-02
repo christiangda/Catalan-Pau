@@ -53,6 +53,7 @@ Catàleg mestre de tots els continguts de la wiki. S'actualitza a cada ingest.
 
 ## Exàmens PAU
 - [[examens/_index]]
+  - [[PAU 2022 juny]] ⭐ — Sèries 2 i 5, conv. ordinària. S2A: "Nocturn" Jaume Cabré. S2B: avatars clínics (Anna Reig). S5A: *Nadal a Porto* Teresa Pàmies. S5B: economia circular (Paula Solanas). Lectures: *La plaça del Diamant* + *Aigües encantades*. Gramàtica: pronoms febles, funcions sint., adverbials, verbs (subjuntiu/participi), fonètica [s]/[z], derivació.
   - [[PAU 2024 setembre]] ⭐ — Sèrie 3 conv. extraordinària. Op. A: Josep Pla. Op. B: metavers. Gramàtica: funcions sintàctiques, confusibles (*quan/quant*, *en lloc/enlloc*), formes verbals (*cogut*, *vulgueu*), [s] fonètica, derivació lèxica.
 
 ## Tècniques (comentari, redacció)
