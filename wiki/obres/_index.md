@@ -13,6 +13,9 @@ Un fitxer per obra: argument, personatges, temes, estructura, fragments clau, po
 - ⭐ [[Mirall trencat]] — Mercè Rodoreda (lectura obligatòria confirmada del curs)
 - [[La plaça del Diamant]] — Mercè Rodoreda (referència PAU 2022-2024 a totes les convocatòries)
 - [[Aigües encantades]] — Joan Puig i Ferreter (referència PAU 2022-2024 a totes les convocatòries)
+- [[Tirant lo Blanc]] — Joanot Martorell (clàssic medieval cabdal)
+- [[Solitud]] — Víctor Català (modernisme rural)
+- [[Oda a la patria|Oda a la pàtria]] — B.C. Aribau (text fundacional Renaixença)
 
 ## Què cal saber per a cada obra
 - Context històric i biogràfic de l'autor
