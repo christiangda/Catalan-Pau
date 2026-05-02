@@ -22,6 +22,7 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 - [[PAU 2024 setembre]] ✅ — Sèrie 3, conv. extraordinària. Op. A: Josep Pla «Una aventura al canal» (narratiu literari). Op. B: text sobre el metavers (expositiu-divulgatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
 ### 2023
+- [[PAU 2023 juny]] ✅ — Sèries 1 i 5, conv. ordinària. S1 Op. A: Jesús Moncada, «L'estremidora confessió de Joe Galàxia» (narratiu literari). S1 Op. B: Lara Bonilla, «Fins a la Lluna i més enllà» (divulgatiu). S5 Op. A: Maria Barbal, *Pedra de tartera* (narratiu literari). S5 Op. B: Marc Gil, «La carn artificial» (divulgatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 - [[PAU 2023 setembre]] ✅ — Sèrie 2, conv. extraordinària. Op. A: Xavier Benguerel, *Suburbi* (narratiu literari). Op. B: Laura Gómez, assegurances extraterrestres (expositiu-argumentatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
 ### 2022
