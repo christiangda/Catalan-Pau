@@ -10,6 +10,16 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest: PAU 2022 juny (convocatòria ordinària)
+
+**Fonts:** `.raw/examens-pau/Enunciat 2022 juny.pdf` + `Solucio 2022 juny.pdf` (Sèries 2 i 5)
+**Creat:** [[PAU 2022 juny]], [[src-pau-2022-juny]]
+**Actualitzat:** [[examens/_index]]
+**Lectures preguntades:** *La plaça del Diamant* (Rodoreda) + *Aigües encantades* (Puig i Ferreter)
+**Punts gramaticals:** pronoms febles, funcions sintàctiques (CD/CRV/subjecte/predicatiu/CC), oracions adverbials (condicional/temporal), formes verbals (subjuntiu/participi/gerundi), fonètica [s] i [z], derivació lèxica.
+
+---
+
 ## 2026-05-02 — Ingest: PAU 2025 juny (examen més recent)
 
 **Fonts:** `.raw/examens-pau/Enunciat 2025 juny.pdf` + `Solucio 2025 juny.pdf`
