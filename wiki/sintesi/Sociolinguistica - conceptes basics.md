@@ -43,5 +43,5 @@ Procés invers a la substitució: recuperar la llengua en àmbits formals.
 
 ## Vegeu també
 - [[Història de la llengua catalana]]
-- [[Famílies linguístiques]]
+- [[Famílies lingüístiques]]
 - [[Variants dialectals]]
