@@ -10,6 +10,19 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest: PAU 2025 setembre (convocatòria extraordinària)
+
+**Fonts:** `.raw/examens-pau/Enunciat 2025 septembre.pdf` + `Solucio 2025 septembra.pdf` (Sèrie 3)
+**Creat:** [[PAU 2025 setembre]], [[src-pau-2025-setembre]]
+**Actualitzat:** [[examens/_index]]
+**Text proposat:** article argumentatiu-expositiu sobre alimentació alternativa sostenible (insectes com a proteïna), *Càtedra AgroBank*, 2018. Tipologia: argumentatiu-expositiu.
+**Poema Bloc 1:** Josep Carner, «Cançoneta incerta» — tema: incerteses de la vida; mètrica: 3 estrofes 8 vv., octosíl·labs + tetrasíl·labs alternats; figura: prosopopeia.
+**Lectures obligatòries preguntades:** Cap.
+**Punts gramaticals:** funcions sintàctiques (CC, sub.sust.CD, sub.rel. locatiu, CN, CD); parells confusos (*per què/perquè*, *massa/gaire*, *en lloc/enlloc*, *gens/res*, *sinó/si no*); verbs registre formal (*conec, doni, begueu, conclòs, pugueu*); grafies so [s]; derivació lèxica (*maror, dormilec, feinejava, enrogallat, simplificar*); correcció de 5 errors; dialecte nord-occidental.
+**Figures retòriques:** prosopopeia (Bloc 1, 2.1.4); sinestèsia / personificació / metàfora (Bloc 2, 2.2.3 — versos Gabriel Ferrater).
+
+---
+
 ## 2026-05-02 — Ingest: PAU 2024 juny (convocatòria ordinària)
 
 **Fonts:** `.raw/examens-pau/Enunciat 2024 juny.pdf` + `Solucio 2024 juny.pdf` (Sèries 1 i 5)
