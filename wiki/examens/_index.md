@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Exàmens PAU"
-updated: 2026-05-01
+updated: 2026-05-02
 tags: [examens]
 ---
 
