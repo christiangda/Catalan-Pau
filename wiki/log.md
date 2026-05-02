@@ -10,6 +10,21 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest PAU 2022 setembre
+
+**Fonts:** `.raw/examens-pau/Enunciat 2022 septembre.pdf` + `Solucio 2022 septembre.pdf`
+
+**Creat:**
+- [[PAU 2022 setembre]] — pàgina d'examen completa (10 pts, totes les opcions A/B + part comuna, totes les respostes del solucionari)
+- [[src-pau-2022-setembre]] — pàgina de font
+
+**Actualitzat:**
+- [[examens/_index]] — afegit PAU 2022 setembre + patrons recurrents inicials
+
+**Lectures obligatòries identificades:** *La plaça del Diamant* (Rodoreda) + *Aigües encantades* (Puig i Ferreter) — wikilinks pendents de crear.
+
+---
+
 ## 2026-05-01 — Lint: health check post-tanda-4
 
 Reporte: [[lint-report-2026-05-01]] (`wiki/meta/`).
