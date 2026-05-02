@@ -71,6 +71,8 @@ Recopilació de preguntes model amb resposta sintètica. Útil per a repàs.
 > 14 versos: 2 quartets (ABBA ABBA) + 2 tercets (CDE CDE o variants). Decasíl·labs / hendecasíl·labs.
 
 ## Figures retòriques
+> [!tip] Pàgina completa: [[Figures retoriques]] — 20 figures amb definició, exemple i confusions freqüents PAU.
+
 **Al·literació, metonímia, personificació.**
 > **Al·literació**: repetició de sons. **Metonímia**: substitució per relació directa. **Personificació**: qualitats humanes a objectes/idees.
 

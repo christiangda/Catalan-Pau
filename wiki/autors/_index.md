@@ -22,7 +22,7 @@ tags: [autors]
 
 ## Segle XIX
 - [[B.C. Aribau]] · [[Manuel de Cabanyes]] — [[Romanticisme]]
-- [[Jacint Verdaguer]] · [[Angel Guimera]] · [[Victor Balaguer]] — [[Renaixenca|Renaixença]]
+- [[Jacint Verdaguer]] · [[Angel Guimera]] · [[Victor Balaguer]] · [[Frederic Soler]] «Pitarra» — [[Renaixenca|Renaixença]]
 - [[Narcis Oller]] · [[Dolors Monserda]] — [[Realisme-i-Naturalisme]]
 
 ## Segle XX
@@ -30,7 +30,7 @@ tags: [autors]
 - [[Josep Carner]] · [[Eugeni d'Ors]] · [[Carles Riba]] · [[Guerau de Liost]] · [[Pompeu Fabra]] — [[Noucentisme]]
 - [[Joan Salvat-Papasseit]] · [[J.V. Foix]] · [[Josep Maria de Sagarra]] — [[Avantguardes]]
 - [[Salvador Espriu]] · [[Pere Quart]] · [[Merce Rodoreda]] — [[Guerra-i-Postguerra]]
-- [[Manuel de Pedrolo]] · [[Montserrat Roig]] · [[Maria Aurelia Capmany]] · [[Lluis Llach]] · [[Raimon]] — [[Anys-60-80]]
+- [[Manuel de Pedrolo]] · [[Montserrat Roig]] · [[Maria Aurelia Capmany]] · [[Lluis Llach]] · [[Raimon]] · [[Josep M Benet i Jornet]] — [[Anys-60-80]]
 
 ## Segle XX–XXI
 - [[Quim Monzo]] · [[Maria-Merce Marcal]] · [[Jaume Cabre]] · [[Miquel Marti i Pol]] — [[Postmodernitat]]

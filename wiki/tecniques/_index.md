@@ -12,6 +12,9 @@ tags: [tecniques]
 - [[La poesia - teoria metrica]] — vers, rima, estrofa, figures, gèneres lírics
 - [[El teatre - teoria]] — text dramàtic, acotacions, actes/escenes, subgèneres
 
+## Recursos retòrics
+- [[Figures retoriques]] — 20 figures (fòniques, sintàctiques, semàntiques, lògiques) amb definició + exemple
+
 ## Pendent
 - Comentari de text (estructura)
 - Redacció argumentativa
