@@ -26,6 +26,7 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 - [[PAU 2023 setembre]] ✅ — Sèrie 2, conv. extraordinària. Op. A: Xavier Benguerel, *Suburbi* (narratiu literari). Op. B: Laura Gómez, assegurances extraterrestres (expositiu-argumentatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
 ### 2022
+- [[PAU 2022 juny]] ✅ — Sèries 2 i 5, conv. ordinària. S2A: "Nocturn" Jaume Cabré (narratiu literari). S2B: article Anna Reig (divulgatiu, avatars clínics). S5A: *Nadal a Porto* Teresa Pàmies (narratiu). S5B: Paula Solanas (expositiu, economia circular). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 - [[PAU 2022 setembre]] ✅ — Sèrie 3. Opció A: Baltasar Porcel (narratiu). Opció B: Jordi Pueyo Busquets (argumentatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
 ## Patrons recurrents
