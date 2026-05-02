@@ -53,6 +53,7 @@ Catàleg mestre de tots els continguts de la wiki. S'actualitza a cada ingest.
 
 ## Exàmens PAU
 - [[examens/_index]]
+  - [[PAU 2024 setembre]] ⭐ — Sèrie 3 conv. extraordinària. Op. A: Josep Pla. Op. B: metavers. Gramàtica: funcions sintàctiques, confusibles (*quan/quant*, *en lloc/enlloc*), formes verbals (*cogut*, *vulgueu*), [s] fonètica, derivació lèxica.
 
 ## Tècniques (comentari, redacció)
 - [[tecniques/_index]]
