@@ -10,6 +10,17 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest: PAU 2024 juny (convocatòria ordinària)
+
+**Fonts:** `.raw/examens-pau/Enunciat 2024 juny.pdf` + `Solucio 2024 juny.pdf` (Sèries 1 i 5)
+**Creat:** [[PAU 2024 juny]], [[src-pau-2024-juny]]
+**Actualitzat:** [[examens/_index]], [[Banc preguntes PAU]]
+**Textos proposats:** S1-A: Pere Calders, «El principi de la saviesa» (*Cròniques de la veritat oculta*); S1-B: Jordi Martín (Hinton/IA, *El Nacional*); S5-A: Rafael Vallbona, *La casa de la frontera*; S5-B: robòtica MWC (*Espai.Mèdia*)
+**Lectures preguntades:** *La plaça del Diamant* (Rodoreda) + *Aigües encantades* (Puig i Ferreter)
+**Punts gramaticals:** funcions sintàctiques (CI/sub.adj./subjecte/CRV/atribut/CC/sub.sust.CD/C.pred.), parelles confusibles (que/què, massa/gaire, en lloc/enlloc, perquè/per què, gens/res, si no/sinó, tan/tant), verbs irregulars (coure/cabre/seure/treure/moldre/fondre), grafies [s] (S1) i [z] (S5), derivació lèxica, canvi de temps verbals (imperfet↔present).
+
+---
+
 ## 2026-05-02 — Ingest: PAU 2022 juny (convocatòria ordinària)
 
 **Fonts:** `.raw/examens-pau/Enunciat 2022 juny.pdf` + `Solucio 2022 juny.pdf` (Sèries 2 i 5)
