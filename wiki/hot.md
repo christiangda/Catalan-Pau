@@ -1,13 +1,30 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-01T23:59:00
+updated: 2026-05-02T20:00:00
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-05-01. **Sessió tancada amb wiki PAU complet + lint pass**. Totes 4 tandes d'ingest ✅. Lint report a [[lint-report-2026-05-01]]: 0 orfes, 31 issues no crítics pendents de decisió.
+2026-05-02. **Tanda 5 ingerida: 8 convocatòries PAU 2022-2025** (16 PDFs en paral·lel). Patrons sintetitzats. Stubs crítics creats: [[La placa del Diamant|La plaça del Diamant]], [[Aigues encantades|Aigües encantades]], [[Joan Puig i Ferreter]], [[Joan Alcover]].
+
+## Insights clau de la tanda 5 (PAU 2022-2025)
+- ⭐ **Lectures obligatòries 2022-2024**: [[La placa del Diamant|La plaça del Diamant]] + [[Aigues encantades|Aigües encantades]] van aparèixer a TOTES les convocatòries (6 consecutives, totes les sèries i opcions).
+- ⭐ **Canvi de format 2025**: NO van preguntar lectures obligatòries; en canvi van introduir bloc de **figures retòriques en poema** (polisíndeton, hipèrbaton, prosopopeia, sinestèsia), **dialectologia** (rossellonès al juny, nord-occidental al setembre), i **correcció ortogràfica** de 5 errors.
+- **Bloc gramatical sempre 5×6**: 5 funcions sintàctiques + 5 parells confusos + 5 verbs irregulars + 5 grafies + 5 derivacions (+ a 2025: + 5 ortografia + 3 dialecte). Detall complet a [[Banc preguntes PAU]].
+- **Trampa crítica 2025**: subratllar més elements dels demanats = **0 punts** automàtic a la pregunta sencera.
+- **Verbs irregulars més freqüents**: coure→cogut/cuit, cabre→cabut/cabéssim, voler→vulgueu, treure→trauria, moldre→molt, fondre→fongués, complaure→complaïa, collir→cullis, absoldre→absolt, concloure→conclòs.
+- **Errors materials del solucionari oficial detectats**: 2025-jun (descripció errònia ordre sonet), 2024-set (cesura mal marcada).
+
+## Recurs principal de repàs PAU
+- [[Banc preguntes PAU]] — ara amb 80+ V/F oficials, taula consolidada de verbs irregulars 2022-2025, trampes del solucionari, patrons clau.
+- [[examens/_index|examens/_index]] — taula consolidada per any + estructura del bloc gramatical + trampes + errors del solucionari.
+
+---
+
+## Sessió anterior (2026-05-01)
+**Sessió tancada amb wiki PAU complet + lint pass**. Totes 4 tandes d'ingest ✅. Lint report a [[lint-report-2026-05-01]]: 0 orfes, 31 issues no crítics pendents de decisió.
 
 ## Key Recent Facts
 - ⭐ ***Mirall trencat* és lectura obligatòria** PAU. Pàgina completa a [[Mirall trencat]] (argument, personatges, símbols, narrador, estructura, preguntes).
