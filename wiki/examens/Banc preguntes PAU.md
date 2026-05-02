@@ -204,6 +204,77 @@ Recopilació de preguntes model amb resposta sintètica. Útil per a repàs.
 | El que decanta el poble contra el Foraster és la pluja sobtada que cau. | **V** | 2023-juny S5-B |
 | En l'obra es compara la Cecília amb un ocell que fuig del niu. | **V** | 2023-juny S5-B |
 
+## V/F *La plaça del Diamant* (Rodoreda) — PAU 2024 juny
+
+| Afirmació | V/F | Font |
+|-----------|-----|------|
+| La Natàlia i en Quimet van tenir dues filles. | **F** (una filla i un fill) | 2024-juny S1-OpB |
+| La Natàlia pregunta a en Quimet qui és la Maria. | **V** | 2024-juny S1-OpB |
+| En Quimet es compra una moto amb el que ha guanyat restaurant mobles. | **F** | 2024-juny S1-OpB |
+| La filla de la Natàlia i en Quimet es diu Natàlia. | **V** (Rita és el malnom; Natàlia és el nom) | 2024-juny S1-OpB |
+| Quan es proclama la República, en Quimet es passeja pels carrers amb una bandera. | **F** | 2024-juny S1-OpB |
+| Quan arregla el pis, la Natàlia no rep ajut de ningú. | **V** | 2024-juny S5-OpA |
+| A en Quimet, la cama li fa mal de dia i de nit. | **F** | 2024-juny S5-OpA |
+| El primer colom que arriba a casa arriba per casualitat i amb una ala ferida. | **F** | 2024-juny S5-OpA |
+| Quan la Natàlia és a la feina, els coloms volen per dins el pis. | **F** | 2024-juny S5-OpA |
+| En quedar viuda, la Natàlia torna a demanar feina a la casa dels senyors. | **V** | 2024-juny S5-OpA |
+
+## V/F *Aigües encantades* (Puig i Ferreter) — PAU 2024 juny
+
+| Afirmació | V/F | Font |
+|-----------|-----|------|
+| Al començament, quan en Vergés la va a veure, la Cecília està sola. | **V** | 2024-juny S1-OpA |
+| El pare de la Cecília l'amenaça de no pagar-li l'any que li falta per acabar els estudis. | **V** | 2024-juny S1-OpA |
+| La Juliana s'assembla molt a la seva filla. | **F** | 2024-juny S1-OpA |
+| La gent del poble considera que la sequera és un càstig diví. | **V** | 2024-juny S1-OpA |
+| A mossèn Gregori li sembla bé que la Cecília hagi estudiat a ciutat. | **F** | 2024-juny S1-OpA |
+| La Juliana està d'acord amb les idees de la societat tradicional en la qual viu. | **F** | 2024-juny S5-OpB |
+| Pere Amat s'oposa a la voluntat de mossèn Gregori. | **F** (comparteix les seves idees) | 2024-juny S5-OpB |
+| La pluja és interpretada com un fet natural, propi de l'estació. | **V** | 2024-juny S5-OpB |
+| La Cecília admira en Vergés. | **V** | 2024-juny S5-OpB |
+| Al final de l'obra, els pares de la Cecília van a l'església i deixen la filla sola. | **V** | 2024-juny S5-OpB |
+
+## V/F coneixements literaris generals — PAU 2024 juny (nous)
+
+| Afirmació | V/F | Font |
+|-----------|-----|------|
+| Un vers de set síl·labes s'anomena *hexasíl·lab* | **F** (heptasíl·lab) | 2024-juny S1-OpA |
+| La hipèrbole és un tòpic literari | **F** (figura retòrica) | 2024-juny S1-OpA |
+| El tòpic *locus amoenus* vol dir 'lloc amè, agradable' | **V** | 2024-juny S1-OpA |
+| La cesura divideix un vers en hemistiquis | **V** | 2024-juny S1-OpA |
+| Una faula: protagonistes animals/plantes que parlen | **V** | 2024-juny S1-OpB |
+| Text en registre formal no segueix la normativa | **F** | 2024-juny S1-OpB |
+| Text teatral: actes subdivisibles en escenes | **V** | 2024-juny S1-OpB |
+| *Homo viator* vol dir 'home viatger' (literalment) | **F** (metàfora del camí de la vida) | 2024-juny S1-OpB |
+| Textos lírics expressen emocions objectivament | **F** (subjectivament) | 2024-juny S1-OpB |
+| El conte és un exemple de text expositiu | **F** (narratiu) | 2024-juny S5-OpA |
+| L'epítet aporta informació essencial | **F** (ornamental) | 2024-juny S5-OpA |
+| *Terra baixa* (Guimerà) és un drama realista | **V** | 2024-juny S5-OpA |
+| *Ubi sunt* és un tòpic literari | **V** | 2024-juny S5-OpA |
+| Textos expositius informen sense opinió personal | **V** | 2024-juny S5-OpA |
+| Interrogació retòrica: pregunta que no espera resposta | **V** | 2024-juny S5-OpB |
+| Ressenya d'un llibre = text narratiu | **F** (text d'opinió/crític) | 2024-juny S5-OpB |
+| Versos de set síl·labes s'anomenen *heptasíl·labs* | **V** | 2024-juny S5-OpB |
+| Textos persuasius tenen com a objectiu principal informar | **F** (persuadir) | 2024-juny S5-OpB |
+
+## Preguntes obertes recurrents (PAU 2024 juny)
+
+**Diferència estil directe vs. estil indirecte.**
+> Directe: paraules dels personatges transcrites literalment (citació textual marcada gràficament). Indirecte: el narrador reformula el que diuen/pensen els personatges. Vegeu [[La narrativa - teoria]].
+
+**Parts d'una carta formal (≤50 mots).**
+> 1) destinació, 2) salutació, 3) nucli (motiu + exposició + conclusió), 4) comiat, 5) signatura, 6) data, 7) anotacions finals (postdata). Vegeu [[Tipologies textuals]].
+
+**Significat de «ser la poma de la discòrdia» i «ser una odissea» (mitologia grega).**
+> *Poma*: provocar conflictes entre persones. *Odissea*: llarg seguici de peripècies i penalitats per arribar a un objectiu. Vegeu [[Topics literaris]].
+
+**Canvis psicològics de la Natàlia a *La plaça del Diamant*.**
+> Principi: tímida i ingènua. Amb Quimet: perd la identitat (fins i tot el nom → Colometa). Mort de Quimet + Antoni: recupera la identitat veritable.
+
+**Dues lluites a *Aigües encantades*.**
+> 1) Cecília (progressista/city) vs. pares (tradició rural). 2) El Foraster vs. la gent del poble (refusen la modernització de l'explotació de l'aigua).
+
 ## Fonts
 - [[src-temari-2batx-md]] (capítols *Examen* i *Model de preguntes PAU*)
 - [[PAU 2023 juny]] — V/F lectures obligatòries (solucionari oficial)
+- [[PAU 2024 juny]] — V/F lectures obligatòries i coneixements literaris (solucionari oficial)
