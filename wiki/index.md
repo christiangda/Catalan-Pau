@@ -33,17 +33,17 @@ Catàleg mestre de tots els continguts de la wiki. S'actualitza a cada ingest.
 - [[Fonetica - canvis fonetics]] — mode/punt d'articulació, ensordiment, sonorització, emmudiment, geminació
 
 ## Fonts
-- [[sources/src-sintaxi-presentacio]] ⭐ — Sintaxi Presentació Batx 2n (33 diapositives, GIEC 2018)
-- [[sources/src-temari-2batx-md]] ⭐ — temari complet 2n batxillerat
-- [[sources/src-funcions-sintactiques]] — taula funcions sintàctiques (temari general)
-- [[sources/src-fonetica-canvis]] — 4 PDFs fonètica: canvis fonètics (temari general)
-- [[sources/src-correlacions-verbals]] — correlacions verbals i condicional (temari general)
-- [[sources/src-oracions-relatiu]] — oracions de relatiu, pronoms relatius, formes incorrectes
-- [[sources/src-oracions-adverbials]] — teoria adverbials (12 diapositives) + fitxa 7 d'exercicis
-- [[sources/src-autors-XII-XVIII]]
-- [[sources/src-moviments-XII-XVIII]]
-- [[sources/src-autors-XIX-XXI]]
-- [[sources/src-moviments-XVIII-XXI]]
+- [[src-sintaxi-presentacio]] ⭐ — Sintaxi Presentació Batx 2n (33 diapositives, GIEC 2018)
+- [[src-temari-2batx-md]] ⭐ — temari complet 2n batxillerat
+- [[src-funcions-sintactiques]] — taula funcions sintàctiques (temari general)
+- [[src-fonetica-canvis]] — 4 PDFs fonètica: canvis fonètics (temari general)
+- [[src-correlacions-verbals]] — correlacions verbals i condicional (temari general)
+- [[src-oracions-relatiu]] — oracions de relatiu, pronoms relatius, formes incorrectes
+- [[src-oracions-adverbials]] — teoria adverbials (12 diapositives) + fitxa 7 d'exercicis
+- [[src-autors-XII-XVIII]]
+- [[src-moviments-XII-XVIII]]
+- [[src-autors-XIX-XXI]]
+- [[src-moviments-XVIII-XXI]]
 
 ## Obres (lectures obligatòries)
 - [[obres/_index]]
