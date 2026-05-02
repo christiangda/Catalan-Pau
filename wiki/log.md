@@ -10,6 +10,21 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest: PAU 2025 juny (examen més recent)
+
+**Fonts:** `.raw/examens-pau/Enunciat 2025 juny.pdf` + `Solucio 2025 juny.pdf`
+
+**Creat:**
+- [[PAU 2025 juny]] (`wiki/examens/`) — pàgina completa amb totes les preguntes i respostes del solucionari, callouts d'errors PAU, cross-links gramaticals i literaris.
+- [[src-pau-2025-juny]] (`wiki/sources/`) — font registrada.
+
+**Actualitzat:**
+- [[examens/_index]] — entrada 2025 afegida + patrons recurrents enriquits.
+
+**Contingut clau:** Text «La gentrificació verda» (argumentatiu-expositiu, J.M. Boronat i Pujals). Poema: Joan Alcover, «Desolació» (sonet alexandrí; polisíndeton+hipèrbaton). Gramàtica: funcions sint., parells confusos, verbs irregulars, grafies [tʃ], derivació nominal, 5 errors ortogràfics, rossellonès. Expressió: present→imperfet + redacció turisme. Stub recomanat: [[Joan Alcover]].
+
+---
+
 ## 2026-05-02 — Ingest PAU 2023 setembre
 
 **Fonts:** `.raw/examens-pau/Enunciat 2023 septembre.pdf` + `Solucio 2023 septembre.pdf`
