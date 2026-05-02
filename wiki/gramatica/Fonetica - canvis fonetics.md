@@ -172,4 +172,4 @@ La **geminació** és la pronúncia doblada de consonants. Es produeix quan:
 ---
 
 ## Fonts
-- [[sources/src-fonetica-canvis]] — 4 PDFs del temari (febrer 2024)
+- [[src-fonetica-canvis]] — 4 PDFs del temari (febrer 2024)
