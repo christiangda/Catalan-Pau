@@ -1,71 +1,68 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-02T20:00:00
+updated: 2026-05-02T22:00:00
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-05-02. **Tanda 5 ingerida: 8 convocatòries PAU 2022-2025** (16 PDFs en paral·lel). Patrons sintetitzats. Stubs crítics creats: [[La plaça del Diamant]], [[Aigües encantades]], [[Joan Puig i Ferreter]], [[Joan Alcover]].
+**2026-05-02**. Sessió tancada amb wiki **152 pàgines, lint net** (0 dead links, 0 orfes, 0 backslash artifacts, 0 placeholders). Tanda 5 (PAU 2022-2025, 16 PDFs) ingerida + síntesi de patrons + cleanup mecànic en paral·lel.
 
-## Insights clau de la tanda 5 (PAU 2022-2025)
-- ⭐ **Lectures obligatòries 2022-2024**: [[La plaça del Diamant]] + [[Aigües encantades]] van aparèixer a TOTES les convocatòries (6 consecutives, totes les sèries i opcions).
-- ⭐ **Canvi de format 2025**: NO van preguntar lectures obligatòries; en canvi van introduir bloc de **figures retòriques en poema** (polisíndeton, hipèrbaton, prosopopeia, sinestèsia), **dialectologia** (rossellonès al juny, nord-occidental al setembre), i **correcció ortogràfica** de 5 errors.
-- **Bloc gramatical sempre 5×6**: 5 funcions sintàctiques + 5 parells confusos + 5 verbs irregulars + 5 grafies + 5 derivacions (+ a 2025: + 5 ortografia + 3 dialecte). Detall complet a [[Banc preguntes PAU]].
-- **Trampa crítica 2025**: subratllar més elements dels demanats = **0 punts** automàtic a la pregunta sencera.
-- **Verbs irregulars més freqüents**: coure→cogut/cuit, cabre→cabut/cabéssim, voler→vulgueu, treure→trauria, moldre→molt, fondre→fongués, complaure→complaïa, collir→cullis, absoldre→absolt, concloure→conclòs.
-- **Errors materials del solucionari oficial detectats**: 2025-jun (descripció errònia ordre sonet), 2024-set (cesura mal marcada).
+## Estat del wiki
+- **152 pàgines** (vs 121 al lint anterior). Cobertura completa de gramàtica + literatura + 8 convocatòries PAU.
+- **Lectura prescriptiva del curs**: ⭐ [[Mirall trencat]] (Rodoreda).
+- **Recurs principal de repàs PAU**: [[Banc preguntes PAU]] — 80+ V/F oficials, taula de 21 verbs irregulars 2022-2025, trampes del solucionari, patrons clau.
+- **Catàleg mestre**: [[index]] (acabat d'actualitzar).
 
-## Recurs principal de repàs PAU
-- [[Banc preguntes PAU]] — ara amb 80+ V/F oficials, taula consolidada de verbs irregulars 2022-2025, trampes del solucionari, patrons clau.
-- [[examens/_index|examens/_index]] — taula consolidada per any + estructura del bloc gramatical + trampes + errors del solucionari.
+## Insights PAU 2022-2025 (clau per a repàs)
 
----
+### Patrons d'examen
+- ⭐ **2022-2024 (6 conv.)**: ***La plaça del Diamant*** + ***Aigües encantades*** apareixen a TOTES les sèries i opcions.
+- ⭐ **2025 trenca el patró**: NO lectures obligatòries; SÍ figures retòriques en poema (polisíndeton, hipèrbaton, prosopopeia, sinestèsia) + dialectologia (rossellonès al juny, nord-occ. al setembre) + correcció ortogràfica de 5 errors.
+- **Bloc gramatical sempre 5×6**: 5 funcions sintàctiques + 5 parells confusos + 5 verbs irregulars + 5 grafies + 5 derivacions.
+- **Redacció sempre 125-150 paraules formals**, 2 punts.
 
-## Sessió anterior (2026-05-01)
-**Sessió tancada amb wiki PAU complet + lint pass**. Totes 4 tandes d'ingest ✅. Lint report a [[lint-report-2026-05-01]]: 0 orfes, 31 issues no crítics pendents de decisió.
+### Trampes del solucionari ⚠️
+1. Subratllar més elements dels demanats = **0 punts** automàtic (2025).
+2. Pronoms febles 1.3: el referent ha d'incloure **TOT** el sintagma, no només el nucli.
+3. V/F errònies penalitzen (−0,1 a −0,2); en blanc no.
+4. Faltes ortogràfiques: −0,1 sense límit local (fins −2 pt sobre tots els exercicis escrits).
+5. Verbs (3.3): no s'admeten perífrasis quan es demana forma sintètica.
+6. GIEC 2016 NO afecta registre formal.
 
-## Key Recent Facts
-- ⭐ ***Mirall trencat* és lectura obligatòria** PAU. Pàgina completa a [[Mirall trencat]] (argument, personatges, símbols, narrador, estructura, preguntes).
-- *La plaça del Diamant* també surt com a referència — protagonista: Colometa.
-- Wiki té les peces teòriques principals: [[La narrativa - teoria]], [[La poesia - teoria metrica]], [[El teatre - teoria]], [[Sociolinguistica - conceptes basics]], [[Variants dialectals]], [[Tipologies textuals]], [[Topics literaris]], [[Figures retoriques]] (20 figures, 4 categories).
-- Gramàtica nova: [[Fonetica - canvis fonetics]], [[Correlacions verbals]] (condicional + "si"), [[Funcions sintactiques]] (10 funcions + 8 subtipus CC).
-- [[Banc preguntes PAU]] amb ~50 preguntes tipus i ~30 V/F amb resposta breu.
+### Verbs irregulars demanats al registre formal (recopilació 2022-2025)
+coure→cogut/cuit · cabre→cabut/cabéssim · voler→vulgueu · treure→trauria · moldre→molt · fondre→fongués · jeure→jagut · complaure→complaïa · collir→cullis · absoldre→absolt · concloure→conclòs · difondre→difós · excloure→exclosos · respondre→responeu · poder→pugueu · beure→begueu · saber→conec/sabessis · donar→doni/donés · fer→facis. Vegeu taula completa a [[Banc preguntes PAU]].
 
-## Estat de la ingesta per tandes
-- ✅ **Tanda 1** (literatura panoràmica, 4 PDFs petits): 17 moviments + 45 autors + 4 fonts.
-- ✅ **Markdown temari 2 Batx** (gran): 11 pàgines noves + ⭐ [[Mirall trencat]] + enriquiment de moviments.
-- ✅ **Tanda 2** (gramàtica curta, 8 PDFs ingerits en paral·lel): [[Fonetica - canvis fonetics]] (consolidació de 4 PDFs), [[Figures retoriques]], [[Correlacions verbals]], [[Funcions sintactiques]] noves; [[Tipologies textuals]] enriquida (caricatura, oració negativa argumentativa, gèneres, perífrasis `cal que`).
-- ✅ **Tanda 3** (literatura PDFs grans, 4 PDFs en paral·lel): [[La poesia - teoria metrica]] `mature` (+18 seccions: cesura, estrofes, mètrica accentual, tema, to, prosa poètica, cal·ligrama, citas Brossa/Riba); [[El teatre - teoria]] `mature` (modes d'expressió, monòlegs, mapa teatre popular, taula teatre català); [[La narrativa - teoria]] enriquida amb Sullà (Genette 2×2 narrador, durada Tn/Th, narratari, focalització) + manual didàctic (línies narratives, espais protector/opressor, exemples Rusiñol/Roig/Pedrolo/Cabré, evolució històrica). Autors enriquits: [[Angel Guimera]], [[Josep Maria de Sagarra]], [[Salvador Espriu]]. Autors nous: [[Frederic Soler]] («Pitarra»), [[Josep M Benet i Jornet]].
-- ✅ **Tanda 4** (morfo/sintaxi PDFs grans, 9 PDFs en paral·lel): 8 pàgines noves a `wiki/gramatica/` totes `mature`: [[Pronoms febles]], [[Els verbs]], [[Morfologia]], [[Oracions de relatiu]], [[Oracions adverbials]], [[Sintaxi - oracions]], [[Preposicions i conjuncions]], [[Ser i estar]]. Enriquiments a [[Funcions sintactiques]] (sintagmes SN/SV/SAdj/SAdv/SP, subordinades funcions nominals) i [[Correlacions verbals]] (hook resolt). Solucionari del dossier integrat com `[!example]` callouts. Tots els hooks de tanda 2 resolts.
+### Errors materials del solucionari oficial detectats
+- **PAU 2025 juny**: descripció errònia ordre del sonet (diu «dos tercets i dos quartets»).
+- **PAU 2024 setembre**: marca com a VERTADER que la cesura no divideix el vers (és FALS).
 
-## MCP Obsidian
-- ✅ Funcional: `obsidian_list_files_in_vault` i `obsidian_simple_search` verificats. Plugin Local REST API a `127.0.0.1:27124` HTTPS.
-- API key configurada a `~/.claude.json`.
+### Insights gramàtica (de tanda 4)
+- LI → HI davant pronoms acusatius 3a (l'hi, la hi, els hi, les hi). Excepcions: LI+EN (li'n) i LI+HO (li-ho).
+- `perquè` + INDICATIU = causal; `perquè` + SUBJUNTIU = final. Prova: substitueix per *ja que* (causal) o *a fi que* (final).
+- Subordinada substantiva CD pronominalitza sempre amb *ho* (mai el/la).
+- Relatiu compost `el qual / la qual` obligatori darrere prep. tòniques i locucions, però **mai pot substituir *que* en especificatives**.
+- Errors PAU típics: *si tindria, *gosar a fer, *donat que, *degut que, gerundi de posterioritat, *hi havien.
 
-## Estat del lint (pendent decisió)
-Reporte complet: [[lint-report-2026-05-01]]. 0 orfes, 31 issues. Top 5 a resoldre:
-1. ⭐ Crear stub `[[La plaça del Diamant]]` (referenciada moltes vegades, lectura PAU probable).
-2. **6 filename mismatches diacrítics** — decidir convenció: renombrar fitxers a forma amb diacrítics (`Maria-Merce Marcal.md` → `Maria Mercè Marçal.md`, `Ausiàs Marc` → `Ausiàs March`, etc.) o mantenir ASCII i corregir wikilinks. Recomanat: passar a diacrítics (Obsidian els suporta).
-3. **4 backslash artifacts** en taules: `[[Angel Guimera\]]`, `[[Guerra-i-Postguerra\]]`, `[[Renaixenca\]]`, `[[Santiago Rusinol\]]` — fix mecànic.
-4. **2 placeholders d'agent**: `[[Obra 1]]`, `[[Obra 2]]` — eliminar o substituir.
-5. **19 path-style wikilinks** (`[[autors/_index]]`, `[[sources/src-*]]`) → forma curta. Auto-fix segur.
+### Insight literatura (de tanda 3, Sullà)
+- Narrador en 1a persona ≠ intradiegètic. Colometa = **extra**homodiegètica (parla des de fora del marc narratiu). Distinció extra/intra és de nivell, no de persona gramatical.
 
-Stubs PAU recomanats (poc esforç, alt valor): `Tirant lo Blanc`, `Solitud`, `Jocs Florals`, `Oda a la pàtria`. Autors stub menors: Gabriel Ferrater, Joan Vinyoli, Marius Torres, Jordi de Sant Jordi.
+## Estructura ingerida (totes les tandes)
 
-## Notes per a properes sessions
-- ⭐ Aplicar fixes mecànics segurs del lint (categories 3-4-5).
-- Crear fitxa d'obra per *La plaça del Diamant* si es confirma com a lectura PAU.
-- Possibles fitxes de figures retòriques individuals (metàfora, hipèrbole, anàfora) — útil per a comentari de text.
-- Crear pàgina d'estructura del comentari de text quan toqui.
+| Tanda | Material | Estat |
+|---|---|---|
+| 1 | Literatura panoràmica (4 PDFs) | ✅ 17 moviments + 45 autors + 4 fonts |
+| 2 | Gramàtica curta (8 PDFs paral·lel) | ✅ Fonètica + Figures + Correlacions + Funcions sint. |
+| 3 | Literatura PDFs grans (4 PDFs paral·lel) | ✅ Narrativa, Poesia, Teatre `mature` + 2 autors nous |
+| 4 | Morfo/sintaxi grans (9 PDFs paral·lel) | ✅ 8 pàgines noves a gramatica/ totes `mature` |
+| 5 | PAU 2022-2025 (16 PDFs en 8 paral·lel) | ✅ 8 examens + 8 fonts + síntesi patrons + 4 stubs crítics |
+| Cleanup | 5 agents en paral·lel + sync | ✅ Renames diacrítics, mismatches, path-style, 10 stubs |
+
+## Possibles direccions properes
 - Verificar discrepància obres de Guerau de Liost (*La muntanya d'ametistes* vs *Seguint la lluna*).
-- Verificar **triangle Correlacions/Verbs/Adverbials**: que les regles de condicionals no es duplican literalment a les 3 (cross-links existeixen, contingut potencialment redundant).
-- Considerar renombrar `Familias linguistiques.md` → `Famílies lingüístiques.md` (error ortogràfic castellà al fitxer original).
-- ⭐ **Insight PAU clau (Sullà)**: narrador en 1a persona ≠ intradiegètic. Colometa = **extra**homodiegètica (parla des de fora del marc narratiu). La distinció extra/intra és de nivell, no de persona gramatical.
-- ⭐ **Insights PAU gramàtica (tanda 4)**:
-  - LI → HI davant pronoms acusatius 3a (l'hi, la hi, els hi, les hi). Excepcions: LI+EN (li'n) i LI+HO (li-ho) mantenen LI.
-  - `perquè` + INDICATIU = causal; `perquè` + SUBJUNTIU = final. Prova: substitueix per *ja que* (causal) o *a fi que* (final).
-  - Subordinada substantiva CD es pronominalitza sempre amb *ho* (mai el/la). Preposició àtona davant *que* s'elideix obligatòriament.
-  - Relatiu compost `el qual / la qual` és obligatori darrere prep. tòniques i locucions, però **mai pot substituir *que* en especificatives**.
-  - Errors PAU: *si tindria, *gosar a fer, *donat que, *degut que, gerundi de posterioritat, *hi havien.
+- Verificar **triangle Correlacions/Verbs/Adverbials** (regles condicionals duplicades?).
+- Crear pàgina d'estructura del comentari de text (Tècniques pendent).
+- Possibles fitxes de figures retòriques individuals (metàfora, hipèrbole, anàfora).
+- Esborrar [[lint-report-2026-05-01]] o regenerar-lo amb el snapshot 2026-05-02.
+- Stubs d'autors menors PAU sense fitxa: Maria Barbal, Teresa Pàmies, Baltasar Porcel, Jesús Moncada, Xavier Benguerel, Rafael Vallbona (mencions a 1 examen cadascun).
