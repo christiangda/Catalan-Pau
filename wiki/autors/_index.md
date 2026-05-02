@@ -26,10 +26,10 @@ tags: [autors]
 - [[Narcis Oller]] · [[Dolors Monserda]] — [[Realisme-i-Naturalisme]]
 
 ## Segle XX
-- [[Joan Maragall]] · [[Santiago Rusinol]] · [[Victor Catala]] · [[Raimon Casellas]] — [[Modernisme]]
+- [[Joan Maragall]] · [[Santiago Rusinol]] · [[Victor Catala]] · [[Raimon Casellas]] · [[Joan Alcover]] · [[Joan Puig i Ferreter]] — [[Modernisme]]
 - [[Josep Carner]] · [[Eugeni d'Ors]] · [[Carles Riba]] · [[Guerau de Liost]] · [[Pompeu Fabra]] — [[Noucentisme]]
 - [[Joan Salvat-Papasseit]] · [[J.V. Foix]] · [[Josep Maria de Sagarra]] — [[Avantguardes]]
-- [[Salvador Espriu]] · [[Pere Quart]] · [[Merce Rodoreda]] — [[Guerra-i-Postguerra]]
+- [[Salvador Espriu]] · [[Pere Quart]] · [[Merce Rodoreda]] · [[Pere Calders]] · [[Josep Pla]] · [[Marius Torres]] · [[Joan Vinyoli]] · [[Gabriel Ferrater]] — [[Guerra-i-Postguerra]]
 - [[Manuel de Pedrolo]] · [[Montserrat Roig]] · [[Maria Aurelia Capmany]] · [[Lluis Llach]] · [[Raimon]] · [[Josep M Benet i Jornet]] — [[Anys-60-80]]
 
 ## Segle XX–XXI
