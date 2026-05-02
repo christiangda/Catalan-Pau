@@ -121,7 +121,7 @@ La prova consta de **tres parts** (idèntic en totes les sèries/opcions):
 
 #### 1.5 Lectures obligatòries [2 pts — fer-ne DUES de tres]
 
-**1.5.1** (Opció A) — Diferències de caràcter entre Quimet i l'Antoni a *La plaça del Diamant* ([[La placa del Diamant]]):
+**1.5.1** (Opció A) — Diferències de caràcter entre Quimet i l'Antoni a *La plaça del Diamant* ([[La plaça del Diamant]]):
 > «En Quimet és una persona dominant i gelosa. Es comporta de manera egoista i no té en compte els problemes de la Natàlia. En canvi, l'Antoni és una persona comprensiva i benèvola, que vetlla tant pel benestar de la seva dona com pel dels fills que la Natàlia havia tingut amb en Quimet.»
 
 **1.5.1** (Opció B) — Comentar la frase de la Cecília «L'àliga deixa el galliner, per sempre…» a *Aigües encantades*:
@@ -456,7 +456,7 @@ Resposta solucionari: **comtessa** (*ss*), **marquesos** (*s*), **passar** (*ss*
 
 Les dues obres preguntades en TOTES les sèries i opcions:
 
-1. **[[La placa del Diamant]]** (Mercè Rodoreda) — lectura obligatòria PAU
+1. **[[La plaça del Diamant]]** (Mercè Rodoreda) — lectura obligatòria PAU
 2. **Aigües encantades** (Joan Puig i Ferreter) — lectura obligatòria PAU
 
 > [!tip] Cada examen demana 2 de les 3 preguntes de lectures. En 2023, una de les tres opcions sempre és Rodoreda o Puig i Ferreter.
@@ -533,5 +533,5 @@ En aquesta convocatòria no es va demanar explícitament identificar cap figura 
 
 - [[Banc preguntes PAU]] — banc de preguntes generals
 - [[src-pau-2023-juny]] — fitxa de font
-- [[La placa del Diamant]] — obra preguntada (Rodoreda)
+- [[La plaça del Diamant]] — obra preguntada (Rodoreda)
 - [[Pronoms febles]] · [[Els verbs]] · [[Funcions sintactiques]] · [[Sintaxi - oracions]] · [[Oracions de relatiu]] · [[Oracions adverbials]] · [[Preposicions i conjuncions]] · [[Fonetica - canvis fonetics]] · [[Morfologia]] · [[Figures retoriques]]

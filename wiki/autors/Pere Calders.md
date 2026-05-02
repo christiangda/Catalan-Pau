@@ -4,7 +4,7 @@ status: stub
 nom: "Pere Calders"
 naixement: 1912
 mort: 1994
-moviment: "[[Postguerra|Guerra-i-Postguerra]]"
+moviment: "[[Guerra-i-Postguerra]]"
 tags: [autor, postguerra, realisme-magic, narrativa, exili]
 created: 2026-05-02
 updated: 2026-05-02
@@ -31,6 +31,6 @@ Narrador català, una de les veus màximes del **realisme màgic** en català. V
 > Nota PAU: «Pere Calders = realista» és **FALS** (banc V/F PAU 2024). Calders cultiva el **realisme màgic**, no el realisme.
 
 ## Vegeu també
-- [[Postguerra|Guerra-i-Postguerra]]
+- [[Guerra-i-Postguerra]]
 - [[La narrativa - teoria]]
 - [[PAU 2024 juny]]

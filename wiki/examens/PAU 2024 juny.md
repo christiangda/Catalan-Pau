@@ -133,7 +133,7 @@ La prova consta de **tres parts** (10 punts totals):
 
 **Opció B** — *Quines dues lluites es plantegen a Aigües encantades, de Joan Puig i Ferreter?* [1.5.1 Sèrie 1 Opció B canviada: vegeu 1.5.1 Opció B a sota]
 
-> Obra: **[[La placa del Diamant]]** (Mercè Rodoreda) / **[[Aigues encantades]]** (Joan Puig i Ferreter)
+> Obra: **[[La plaça del Diamant]]** (Mercè Rodoreda) / **[[Aigües encantades]]** (Joan Puig i Ferreter)
 
 #### 1.5.2 — V/F sobre lectures [1 pt; −0,2 per error]
 
@@ -486,8 +486,8 @@ Grafies que representen [z]: re**s**clo**s**a, **é**s (davant vocal en paraula 
 
 | Obra | Autor | Preguntes |
 |------|-------|-----------|
-| [[La placa del Diamant]] | [[Merce Rodoreda\|Mercè Rodoreda]] | S1-OpA 1.5.1, S1-OpB 1.5.2, S5-OpA 1.5.1, S5-OpA 1.5.2 |
-| [[Aigues encantades]] | [[Joan Puig i Ferreter]] | S1-OpA 1.5.2, S1-OpB 1.5.1, S5-OpB 1.5.1, S5-OpB 1.5.2 |
+| [[La plaça del Diamant]] | [[Merce Rodoreda\|Mercè Rodoreda]] | S1-OpA 1.5.1, S1-OpB 1.5.2, S5-OpA 1.5.1, S5-OpA 1.5.2 |
+| [[Aigües encantades]] | [[Joan Puig i Ferreter]] | S1-OpA 1.5.2, S1-OpB 1.5.1, S5-OpB 1.5.1, S5-OpB 1.5.2 |
 
 ---
 
@@ -555,6 +555,6 @@ No hi ha preguntes explícites de figures retòriques en aquesta convocatòria (
 - [[Figures retoriques]] — epítet, interrogació retòrica
 - [[Topics literaris]] — *locus amoenus*, *homo viator*, *ubi sunt*, *poma de la discòrdia*, *odissea*
 - [[Pere Calders]] — autor text S1-OpA
-- [[La placa del Diamant]] — lectura obligatòria (Rodoreda)
-- [[Aigues encantades]] — lectura obligatòria (Puig i Ferreter)
+- [[La plaça del Diamant]] — lectura obligatòria (Rodoreda)
+- [[Aigües encantades]] — lectura obligatòria (Puig i Ferreter)
 - [[Angel Guimera]] — *Terra baixa* mencionat a S5-OpA 1.5.4c

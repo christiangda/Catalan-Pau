@@ -279,7 +279,7 @@ Recopilació de preguntes model amb resposta sintètica. Útil per a repàs.
 > [!important] Síntesi de 8 convocatòries
 > Després d'ingerir 2022-juny → 2025-setembre, els patrons consolidats són a [[examens/_index|examens/_index]]. Punts clau:
 >
-> - **2022-2024**: les dues lectures obligatòries (***[[La placa del Diamant|La plaça del Diamant]]*** + ***[[Aigues encantades|Aigües encantades]]***) apareixen a TOTES les convocatòries i sèries. Sis convocatòries consecutives.
+> - **2022-2024**: les dues lectures obligatòries (***[[La plaça del Diamant|La plaça del Diamant]]*** + ***[[Aigües encantades|Aigües encantades]]***) apareixen a TOTES les convocatòries i sèries. Sis convocatòries consecutives.
 > - **2025**: canvi de format — desapareixen les lectures obligatòries explícites; apareixen **figures retòriques en poema** (polisíndeton, hipèrbaton, prosopopeia, sinestèsia, metàfora) + **dialectologia** (rossellonès al juny, nord-occidental al setembre) + **correcció ortogràfica** de 5 errors.
 > - **Bloc gramatical sempre 5×6**: 5 funcions sintàctiques + 5 parells confusos + 5 verbs irregulars + 5 grafies + 5 derivacions (+ a 2025: + 5 ortografia + 3 dialecte).
 > - **Redacció sempre 125-150 paraules formals**, 2 punts.

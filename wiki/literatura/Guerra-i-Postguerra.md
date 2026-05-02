@@ -27,7 +27,7 @@ updated: 2026-05-01
 ## Autors principals
 - [[Salvador Espriu]] — *Cementiri de Sinera*, *La pell de brau*
 - [[Pere Quart]] (Joan Oliver) — *Bestiari*
-- [[Merce Rodoreda|Mercè Rodoreda]] — *[[Mirall trencat]]* ⭐, *[[La placa del Diamant|La plaça del Diamant]]*
+- [[Merce Rodoreda|Mercè Rodoreda]] — *[[Mirall trencat]]* ⭐, *[[La plaça del Diamant|La plaça del Diamant]]*
 - [[Carles Riba]] — *Elegies de Bierville* (escrites a l'exili)
 
 ## Resum

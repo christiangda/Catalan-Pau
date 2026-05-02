@@ -4,7 +4,7 @@ status: stub
 nom: "Gabriel Ferrater"
 naixement: 1922
 mort: 1972
-moviment: "[[Postguerra|Guerra-i-Postguerra]]"
+moviment: "[[Guerra-i-Postguerra]]"
 tags: [autor, postguerra, poesia, generacio-50]
 created: 2026-05-02
 updated: 2026-05-02
@@ -29,7 +29,7 @@ Poeta, crític literari i lingüista reusenc, figura central de la **Generació 
 - Reflexió sobre el temps, la memòria i l'experiència amorosa.
 
 ## Vegeu també
-- [[Postguerra|Guerra-i-Postguerra]]
+- [[Guerra-i-Postguerra]]
 - [[La poesia - teoria metrica]]
 - [[Figures retoriques]]
 - [[PAU 2025 setembre]]

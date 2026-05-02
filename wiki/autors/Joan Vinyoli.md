@@ -4,7 +4,7 @@ status: stub
 title: "Joan Vinyoli"
 naixement: 1914
 mort: 1984
-moviment: "[[Postguerra|Guerra-i-Postguerra]]"
+moviment: "[[Guerra-i-Postguerra]]"
 tags: [autor, postguerra, poesia, simbolisme, segle-xx]
 created: 2026-05-02
 updated: 2026-05-02
@@ -30,5 +30,5 @@ Poeta català (Barcelona, 1914 – 1984). Una de les veus poètiques més profun
 - Reflexió sobre el pas del temps i el sentit de l'existència
 
 ## Vegeu també
-- [[Postguerra|Guerra-i-Postguerra]]
+- [[Guerra-i-Postguerra]]
 - [[La poesia - teoria metrica]]

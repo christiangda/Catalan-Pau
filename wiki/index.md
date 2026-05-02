@@ -1,64 +1,86 @@
 ---
 type: meta
 title: "Índex"
-updated: 2026-05-01
+updated: 2026-05-02
 ---
 
 # Índex de la Wiki — Català PAU
 
-Catàleg mestre de tots els continguts de la wiki. S'actualitza a cada ingest.
+Catàleg mestre de tots els continguts de la wiki. Estat: **152 pàgines**, 0 orfes (lint 2026-05-02).
 
 ## Visió general
 - [[overview]] — Resum executiu
 - [[hot]] — Context recent
 - [[log]] — Registre cronològic
 
-## Gramàtica
-- [[gramatica/_index]]
+## Subdominis
+- [[gramatica/_index|Gramàtica]] — ortografia, morfologia, sintaxi, lèxic
+- [[literatura/_index|Literatura]] — 17 moviments (s. XII → XXI)
+- [[autors/_index|Autors]] — 53 autors
+- [[obres/_index|Obres]] — 6 fitxes d'obres (1 prescriptiva + 5 referenciades)
+- [[tecniques/_index|Tècniques]] — narrativa, poesia, teatre, figures retòriques
+- [[sintesi/_index|Síntesis]] — sociolingüística, llengua, tòpics, Jocs Florals
+- [[examens/_index|Exàmens PAU]] — 8 convocatòries 2022-2025 + Banc preguntes
+- [[vocabulari/_index|Vocabulari]] — pendent
 
-## Literatura
-- [[literatura/_index]] — 17 moviments (s. XII → XXI)
+## Gramàtica — Notes destacades
+- [[Sintaxi - oracions]] ⭐ — oració simple/composta; coordinada (6 classes); subordinada substantiva, de relatiu, adverbial (9 subtipus)
+- [[Funcions sintactiques]] ⭐ — sintagmes (SN/SV/SAdj/SAdv/SP); 10 funcions + 8 subtipus CC; subordinades amb funcions nominals
+- [[Pronoms febles]] ⭐ — quadre per funció; combinacions binàries (l'hi/li'n/els hi); errors PAU
+- [[Els verbs]] ⭐ — 3 conjugacions, irregularitats, perífrasis, *ser/estar*, errors PAU
+- [[Morfologia]] ⭐ — substantiu, adjectiu, determinants, pronoms tònics, adverbis, preposicions, conjuncions
+- [[Oracions de relatiu]] ⭐ — pronoms relatius, especificatives vs explicatives
+- [[Oracions adverbials]] ⭐ — 9 tipus, connectors, `perquè` causal/final
+- [[Preposicions i conjuncions]] ⭐ — per/per a, fins/fins a, cap/cap a, com/com a, si no/sinó, perquè/per què
+- [[Ser i estar]] ⭐ — taula localització/qualitats/temps; *haver-hi*; errors PAU
+- [[Correlacions verbals]] — oracions condicionals, errors normatius
+- [[Fonetica - canvis fonetics]] — mode/punt d'articulació, ensordiment, sonorització, emmudiment
+- [[Variants dialectals]] — bloc oriental i occidental
+- [[Tipologies textuals]] — explicatiu, argumentatiu, descriptiu, narratiu, predictiu, instructiu
 
-## Autors
-- [[autors/_index]] — 45 autors
+## Tècniques de comentari
+- [[La narrativa - teoria]] ⭐ — Sullà + manual didàctic; Genette 2×2 narrador, focalització
+- [[La poesia - teoria metrica]] ⭐ — vers, rima, estrofa, mètrica accentual, gèneres
+- [[El teatre - teoria]] ⭐ — text dramàtic, modes d'expressió, gèneres, mapa teatre català
+- [[Figures retoriques]] — 20 figures (fòniques/sintàctiques/semàntiques/lògiques)
 
-## Gramàtica — Notes
-- [[Sintaxi - oracions]] ⭐ — oració simple/composta; coordinada (6 classes, connectors, *sinó* vs *si no*); juxtaposada; subordinada substantiva (completiva, d'infinitiu, interrogativa, exclamativa); subordinada de relatiu (pronoms relatius, especificativa/explicativa, sense antecedent); adverbial (9 subtipus)
-- [[Els verbs]] ⭐ — 3 conjugacions, irregularitats, participis irregulars, perífrasis, ser/estar, errors PAU
-- [[Oracions de relatiu]] ⭐ — pronoms relatius, especificatives vs. explicatives, errors PAU (pleonasmes, art+que, prep.)
-- [[Pronoms febles]] ⭐ — quadre substitució per funció, combinacions binàries (l'hi/li'n/els hi), posició, errors PAU
-- [[Funcions sintactiques]] ⭐ — sintagmes (SN/SV/SAdj/SAdv/SP); subjecte, CD, CI, CRV, CC, C.pred., atribut, CN, C.adj., C.adv.; subordinades que fan funcions nominals
-- [[Oracions adverbials]] ⭐ — 9 tipus (temporals→concessives), connectors per tipus, `perquè` causal/final (⚠️ PAU), gerundis, 8 exercicis resolts
-- [[Correlacions verbals]] — oracions condicionals, temps verbals, errors PAU
-- [[Fonetica - canvis fonetics]] — mode/punt d'articulació, ensordiment, sonorització, emmudiment, geminació
+## Síntesis i sociolingüística
+- [[Sociolinguistica - conceptes basics]] — bilingüisme, diglòssia, conflicte
+- [[Famílies lingüístiques]] — indoeuropeu, romàniques, llatí
+- [[Història de la llengua catalana]] — Edat Mitjana → s. XXI
+- [[Topics literaris]] — carpe diem, ubi sunt, locus amoenus
+- [[Jocs Florals]] — certamen poètic clau de la Renaixença
 
-## Fonts
-- [[src-sintaxi-presentacio]] ⭐ — Sintaxi Presentació Batx 2n (33 diapositives, GIEC 2018)
+## Obres prescriptives + referenciades
+- ⭐ [[Mirall trencat]] — Rodoreda (lectura prescriptiva del curs)
+- [[La plaça del Diamant]] — Rodoreda (referència PAU 2022-2024)
+- [[Aigües encantades]] — Puig i Ferreter (referència PAU 2022-2024)
+- [[Tirant lo Blanc]] — Martorell · [[Solitud]] — V. Català · [[Oda a la patria|Oda a la pàtria]] — Aribau
+
+## Exàmens PAU 2022-2025 (8 convocatòries ingerides)
+- ⭐ [[Banc preguntes PAU]] — recurs principal de repàs
+- 2025: [[PAU 2025 juny]] · [[PAU 2025 setembre]]
+- 2024: [[PAU 2024 juny]] · [[PAU 2024 setembre]]
+- 2023: [[PAU 2023 juny]] · [[PAU 2023 setembre]]
+- 2022: [[PAU 2022 juny]] · [[PAU 2022 setembre]]
+
+## Fonts (sources)
+
+### Temari general (gramàtica)
 - [[src-temari-2batx-md]] ⭐ — temari complet 2n batxillerat
-- [[src-funcions-sintactiques]] — taula funcions sintàctiques (temari general)
-- [[src-fonetica-canvis]] — 4 PDFs fonètica: canvis fonètics (temari general)
-- [[src-correlacions-verbals]] — correlacions verbals i condicional (temari general)
-- [[src-oracions-relatiu]] — oracions de relatiu, pronoms relatius, formes incorrectes
-- [[src-oracions-adverbials]] — teoria adverbials (12 diapositives) + fitxa 7 d'exercicis
-- [[src-autors-XII-XVIII]]
-- [[src-moviments-XII-XVIII]]
-- [[src-autors-XIX-XXI]]
-- [[src-moviments-XVIII-XXI]]
+- [[src-tema-3-morfologia]] · [[src-dossier-morfo-sintaxi]] · [[src-els-verbs]] · [[src-pronoms-febles]]
+- [[src-funcions-sintactiques]] · [[src-sintaxi-presentacio]] · [[src-oracions-relatiu]] · [[src-oracions-adverbials]]
+- [[src-correlacions-verbals]] · [[src-fonetica-canvis]] · [[src-tipologies-textuals-pdf]] · [[src-figures-retoriques]]
 
-## Obres (lectures obligatòries)
-- [[obres/_index]]
+### Temari literatura
+- [[src-narrativa-sulla]] · [[src-text-narratiu-pdf]] · [[src-poesia-pdf]] · [[src-teatre-pdf]]
+- [[src-autors-XII-XVIII]] · [[src-autors-XIX-XXI]] · [[src-moviments-XII-XVIII]] · [[src-moviments-XVIII-XXI]]
 
-## Vocabulari i lèxic
-- [[vocabulari/_index]]
+### Exàmens PAU oficials
+- [[src-pau-2025-juny]] · [[src-pau-2025-setembre]]
+- [[src-pau-2024-juny]] · [[src-pau-2024-setembre]]
+- [[src-pau-2023-juny]] · [[src-pau-2023-setembre]]
+- [[src-pau-2022-juny]] · [[src-pau-2022-setembre]]
 
-## Exàmens PAU
-- [[examens/_index]]
-  - [[PAU 2022 juny]] ⭐ — Sèries 2 i 5, conv. ordinària. S2A: "Nocturn" Jaume Cabré. S2B: avatars clínics (Anna Reig). S5A: *Nadal a Porto* Teresa Pàmies. S5B: economia circular (Paula Solanas). Lectures: *La plaça del Diamant* + *Aigües encantades*. Gramàtica: pronoms febles, funcions sint., adverbials, verbs (subjuntiu/participi), fonètica [s]/[z], derivació.
-  - [[PAU 2024 setembre]] ⭐ — Sèrie 3 conv. extraordinària. Op. A: Josep Pla. Op. B: metavers. Gramàtica: funcions sintàctiques, confusibles (*quan/quant*, *en lloc/enlloc*), formes verbals (*cogut*, *vulgueu*), [s] fonètica, derivació lèxica.
-
-## Tècniques (comentari, redacció)
-- [[tecniques/_index]]
-  - [[Figures retoriques]] — 20 figures retòriques (fòniques, sintàctiques, semàntiques, lògiques)
-
-## Síntesis pròpies
-- [[sintesi/_index]]
+## Meta
+- [[lint-report-2026-05-01]] — primer lint (snapshot inicial)

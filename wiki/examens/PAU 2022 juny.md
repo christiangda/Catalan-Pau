@@ -156,7 +156,7 @@ La prova consta de **tres parts** i cal triar UNA de les dues opcions (A o B) pe
 | d) La Trinitat, l'esposa del batlle, està en contra de les opinions de Pere Amat. | **Fals** |
 | e) L'escena final de l'obra succeeix a casa d'en Romanill. | **Fals** |
 
-→ Obra: [[Aigues encantades]] (pendent de fitxa) · Autor: [[Joan Puig i Ferreter]] (pendent de fitxa)
+→ Obra: [[Aigües encantades]] (pendent de fitxa) · Autor: [[Joan Puig i Ferreter]] (pendent de fitxa)
 
 ---
 
@@ -341,7 +341,7 @@ Canviar el fragment de **present a passat** (imperfet).
 | d) Al final mossèn Gregori sent compassió per la Cecília. | **Vertader** |
 | e) El batlle creu que mossèn Gregori no hauria de tocar el tedèum per aturar el poble. | **Fals** |
 
-→ Obra: [[Aigues encantades]] (pendent de fitxa) · Autor: [[Joan Puig i Ferreter]] (pendent de fitxa)
+→ Obra: [[Aigües encantades]] (pendent de fitxa) · Autor: [[Joan Puig i Ferreter]] (pendent de fitxa)
 
 ---
 
@@ -510,10 +510,10 @@ Text: «A mesura que continuava l'ascensió, el paisatge se suavitzava i adquiri
 | Obra | Tipus de pregunta | Sèries |
 |------|-----------------|--------|
 | [[La plaça del Diamant]] (Mercè Rodoreda) | 1.5.1 (salfumant / embut) + 1.5.2 V/F | S2 i S5 |
-| [[Aigues encantades]] (Joan Puig i Ferreter) | 1.5.1 (Vergés / Cecília i mare) + 1.5.3 V/F | S2 i S5 |
+| [[Aigües encantades]] (Joan Puig i Ferreter) | 1.5.1 (Vergés / Cecília i mare) + 1.5.3 V/F | S2 i S5 |
 
 > [!note] Fitxes pendents
-> [[La plaça del Diamant]], [[Aigues encantades]] i [[Joan Puig i Ferreter]] no tenen encara fitxa pròpia al wiki. Wikilinks actius com a recordatori.
+> [[La plaça del Diamant]], [[Aigües encantades]] i [[Joan Puig i Ferreter]] no tenen encara fitxa pròpia al wiki. Wikilinks actius com a recordatori.
 
 ---
 
@@ -547,4 +547,4 @@ Text: «A mesura que continuava l'ascensió, el paisatge se suavitzava i adquiri
 - [[Banc preguntes PAU]] — preguntes tipus generals
 - [[src-pau-2022-juny]] — fitxa de font
 - [[Pronoms febles]] · [[Funcions sintactiques]] · [[Oracions adverbials]] · [[Sintaxi - oracions]] · [[Els verbs]] · [[Fonetica - canvis fonetics]]
-- [[La plaça del Diamant]] (pendent) · [[Aigues encantades]] (pendent) · [[Joan Puig i Ferreter]] (pendent)
+- [[La plaça del Diamant]] (pendent) · [[Aigües encantades]] (pendent) · [[Joan Puig i Ferreter]] (pendent)

@@ -15,8 +15,8 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 Després del re-lint focalitzat, neteja per particionament de fitxers (cap solapament entre agents).
 
 **Renames** (`git mv`, preserven història):
-- `wiki/obres/La placa del Diamant.md` → `La plaça del Diamant.md`
-- `wiki/obres/Aigues encantades.md` → `Aigües encantades.md`
+- `wiki/obres/La plaça del Diamant.md` → `La plaça del Diamant.md`
+- `wiki/obres/Aigües encantades.md` → `Aigües encantades.md`
 - `wiki/sintesi/Familias linguistiques.md` → `Famílies lingüístiques.md` (corregit error ortogràfic castellà)
 
 **Fixes mecànics:**
@@ -46,8 +46,8 @@ Després del re-lint focalitzat, neteja per particionament de fitxers (cap solap
 Després d'ingerir 8 convocatòries en paral·lel, síntesi de patrons + creació d'stubs crítics.
 
 **Stubs nous (alta prioritat PAU):**
-- ⭐ [[La placa del Diamant|La plaça del Diamant]] (`wiki/obres/`) — fitxa completa amb argument, personatges, símbols, narrador, estructura. Era la pàgina més referenciada al wiki sense fitxa.
-- ⭐ [[Aigues encantades|Aigües encantades]] (`wiki/obres/`) — fitxa completa amb conflictes, símbols, taula de confusions PAU freqüents.
+- ⭐ [[La plaça del Diamant|La plaça del Diamant]] (`wiki/obres/`) — fitxa completa amb argument, personatges, símbols, narrador, estructura. Era la pàgina més referenciada al wiki sense fitxa.
+- ⭐ [[Aigües encantades|Aigües encantades]] (`wiki/obres/`) — fitxa completa amb conflictes, símbols, taula de confusions PAU freqüents.
 - [[Joan Puig i Ferreter]] (`wiki/autors/`) — autor de *Aigües encantades* (no tenia fitxa).
 - [[Joan Alcover]] (`wiki/autors/`) — poeta del PAU 2025 juny.
 
@@ -57,7 +57,7 @@ Després d'ingerir 8 convocatòries en paral·lel, síntesi de patrons + creaci�
 - [[obres/_index]] — entrades a *La plaça del Diamant* i *Aigües encantades*.
 
 **Insights consolidats:**
-- 2022-2024 (6 convocatòries): [[La placa del Diamant|Plaça]] + [[Aigues encantades|Aigües]] presents a TOTES les sèries i opcions.
+- 2022-2024 (6 convocatòries): [[La plaça del Diamant|Plaça]] + [[Aigües encantades|Aigües]] presents a TOTES les sèries i opcions.
 - 2025 trenca el patró: 0 lectures obligatòries; bloc literari amb poema + figures retòriques; identificació dialectal (rossellonès/nord-occidental); correcció ortogràfica de 5 errors.
 - Bloc gramatical sistemàtic 5×6: funcions sint. + parells confusos + verbs irregulars + grafies + derivacions (+ a 2025: + ortografia + dialecte).
 - Trampa nova 2025: subratllar més elements dels demanats = 0 punts automàtic a la pregunta sencera.

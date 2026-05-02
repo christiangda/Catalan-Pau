@@ -22,7 +22,7 @@ La narradora catalana més llegida internacionalment del s. XX.
 
 ## Obres principals
 - *[[Mirall trencat]]* (1974) — **lectura obligatòria PAU** ⭐
-- *[[La placa del Diamant|La plaça del Diamant]]* (1962) — protagonista: Colometa
+- *[[La plaça del Diamant|La plaça del Diamant]]* (1962) — protagonista: Colometa
 - *El carrer de les Camèlies*
 - *Jardí vora el mar*
 - *La mort i la primavera*

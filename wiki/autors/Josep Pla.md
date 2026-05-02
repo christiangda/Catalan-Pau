@@ -4,7 +4,7 @@ status: stub
 nom: "Josep Pla"
 naixement: 1897
 mort: 1981
-moviment: "[[Postguerra|Guerra-i-Postguerra]]"
+moviment: "[[Guerra-i-Postguerra]]"
 tags: [autor, postguerra, prosa, periodisme]
 created: 2026-05-02
 updated: 2026-05-02
@@ -29,6 +29,6 @@ Escriptor i periodista empordanès, mestre de la prosa catalana del segle XX, co
 - Dietarisme i retrats psicològics aguts.
 
 ## Vegeu també
-- [[Postguerra|Guerra-i-Postguerra]]
+- [[Guerra-i-Postguerra]]
 - [[La narrativa - teoria]]
 - [[PAU 2024 setembre]]
