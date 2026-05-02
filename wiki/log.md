@@ -10,6 +10,19 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest PAU 2023 setembre
+
+**Fonts:** `.raw/examens-pau/Enunciat 2023 septembre.pdf` + `Solucio 2023 septembre.pdf`
+
+**Creat:**
+- [[PAU 2023 setembre]] — pàgina d'examen completa (Sèrie 2, 2 opcions; totes les respostes del solucionari, callouts d'errors PAU)
+- [[src-pau-2023-setembre]] — pàgina de font
+
+**Actualitzat:**
+- [[examens/_index]] — entrada 2023 setembre afegida
+
+---
+
 ## 2026-05-02 — Ingest PAU 2023 juny
 
 **Fonts:** `.raw/examens-pau/Enunciat 2023 juny.pdf` + `solucio 2023 juny.pdf`
