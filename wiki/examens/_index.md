@@ -14,6 +14,9 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 
 ## Per any
 
+### 2024
+- [[PAU 2024 setembre]] ✅ — Sèrie 3, conv. extraordinària. Op. A: Josep Pla «Una aventura al canal» (narratiu literari). Op. B: text sobre el metavers (expositiu-divulgatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
+
 ### 2022
 - [[PAU 2022 setembre]] ✅ — Sèrie 3. Opció A: Baltasar Porcel (narratiu). Opció B: Jordi Pueyo Busquets (argumentatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
