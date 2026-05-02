@@ -10,6 +10,21 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest PAU 2023 juny
+
+**Fonts:** `.raw/examens-pau/Enunciat 2023 juny.pdf` + `solucio 2023 juny.pdf`
+
+**Creat:**
+- [[PAU 2023 juny]] — pàgina d'examen completa (2 sèries × 2 opcions = 4 variants; totes les respostes del solucionari, callouts d'errors PAU)
+- [[src-pau-2023-juny]] — pàgina de font
+
+**Actualitzat:**
+- [[examens/_index]] — afegida entrada PAU 2023 juny
+
+**Lectures obligatòries preguntades:** *La plaça del Diamant* (Rodoreda), *Aigües encantades* (Puig i Ferreter)
+
+---
+
 ## 2026-05-02 — Ingest PAU 2024 setembre
 
 **Fonts:** `.raw/examens-pau/Enunciat 2024 septembre.pdf` + `Solucio 2024 septembre.pdf`
