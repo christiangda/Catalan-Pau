@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Gramàtica"
-updated: 2026-05-01
+updated: 2026-05-02
 tags: [gramatica]
 ---
 
