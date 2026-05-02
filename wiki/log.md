@@ -10,6 +10,20 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Ingest PAU 2024 setembre
+
+**Fonts:** `.raw/examens-pau/Enunciat 2024 septembre.pdf` + `Solucio 2024 septembre.pdf`
+
+**Creat:**
+- [[PAU 2024 setembre]] — pàgina d'examen completa (10 pts, opcions A/B + part comuna, totes les respostes del solucionari, callouts d'errors PAU)
+- [[src-pau-2024-setembre]] — pàgina de font
+
+**Actualitzat:**
+- [[examens/_index]] — afegida entrada 2024, patrons recurrents ampliats
+- [[index]] — nova entrada a la secció Exàmens PAU
+
+---
+
 ## 2026-05-02 — Ingest PAU 2022 setembre
 
 **Fonts:** `.raw/examens-pau/Enunciat 2022 septembre.pdf` + `Solucio 2022 septembre.pdf`
