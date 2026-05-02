@@ -7,10 +7,10 @@ updated: 2026-05-02T20:00:00
 # Recent Context
 
 ## Last Updated
-2026-05-02. **Tanda 5 ingerida: 8 convocatòries PAU 2022-2025** (16 PDFs en paral·lel). Patrons sintetitzats. Stubs crítics creats: [[La plaça del Diamant]], [[Aigues encantades|Aigües encantades]], [[Joan Puig i Ferreter]], [[Joan Alcover]].
+2026-05-02. **Tanda 5 ingerida: 8 convocatòries PAU 2022-2025** (16 PDFs en paral·lel). Patrons sintetitzats. Stubs crítics creats: [[La plaça del Diamant]], [[Aigües encantades]], [[Joan Puig i Ferreter]], [[Joan Alcover]].
 
 ## Insights clau de la tanda 5 (PAU 2022-2025)
-- ⭐ **Lectures obligatòries 2022-2024**: [[La plaça del Diamant]] + [[Aigues encantades|Aigües encantades]] van aparèixer a TOTES les convocatòries (6 consecutives, totes les sèries i opcions).
+- ⭐ **Lectures obligatòries 2022-2024**: [[La plaça del Diamant]] + [[Aigües encantades]] van aparèixer a TOTES les convocatòries (6 consecutives, totes les sèries i opcions).
 - ⭐ **Canvi de format 2025**: NO van preguntar lectures obligatòries; en canvi van introduir bloc de **figures retòriques en poema** (polisíndeton, hipèrbaton, prosopopeia, sinestèsia), **dialectologia** (rossellonès al juny, nord-occidental al setembre), i **correcció ortogràfica** de 5 errors.
 - **Bloc gramatical sempre 5×6**: 5 funcions sintàctiques + 5 parells confusos + 5 verbs irregulars + 5 grafies + 5 derivacions (+ a 2025: + 5 ortografia + 3 dialecte). Detall complet a [[Banc preguntes PAU]].
 - **Trampa crítica 2025**: subratllar més elements dels demanats = **0 punts** automàtic a la pregunta sencera.
