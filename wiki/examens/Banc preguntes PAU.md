@@ -274,7 +274,67 @@ Recopilació de preguntes model amb resposta sintètica. Útil per a repàs.
 **Dues lluites a *Aigües encantades*.**
 > 1) Cecília (progressista/city) vs. pares (tradició rural). 2) El Foraster vs. la gent del poble (refusen la modernització de l'explotació de l'aigua).
 
+## Patrons clau PAU 2022-2025
+
+> [!important] Síntesi de 8 convocatòries
+> Després d'ingerir 2022-juny → 2025-setembre, els patrons consolidats són a [[examens/_index|examens/_index]]. Punts clau:
+>
+> - **2022-2024**: les dues lectures obligatòries (***[[La placa del Diamant|La plaça del Diamant]]*** + ***[[Aigues encantades|Aigües encantades]]***) apareixen a TOTES les convocatòries i sèries. Sis convocatòries consecutives.
+> - **2025**: canvi de format — desapareixen les lectures obligatòries explícites; apareixen **figures retòriques en poema** (polisíndeton, hipèrbaton, prosopopeia, sinestèsia, metàfora) + **dialectologia** (rossellonès al juny, nord-occidental al setembre) + **correcció ortogràfica** de 5 errors.
+> - **Bloc gramatical sempre 5×6**: 5 funcions sintàctiques + 5 parells confusos + 5 verbs irregulars + 5 grafies + 5 derivacions (+ a 2025: + 5 ortografia + 3 dialecte).
+> - **Redacció sempre 125-150 paraules formals**, 2 punts.
+
+## Trampes del solucionari oficial ⚠️
+
+| Trampa | Conseqüència |
+|---|---|
+| Subratllar més elements dels demanats | **0 punts** a la pregunta sencera (2025) |
+| Donar només el nucli del referent del pronom (1.3) | **0 punts** — cal el sintagma complet |
+| V/F errònia | −0,1 o −0,2; en blanc no penalitza |
+| Falta ortogràfica (qualsevol exercici escrit) | −0,1 cadascuna fins −2 pt en total |
+| Usar perífrasi quan es demana forma verbal sintètica | Resposta no acceptada |
+| Usar formes dialectals (*puguen* valencià) en registre formal | No acceptades |
+| Aplicar GIEC 2016 a registres formals | No afecta — usar norma clàssica |
+
+## V/F coneixements literaris generals — PAU 2025 setembre (poesia)
+
+| Afirmació | V/F | Font |
+|---|---|---|
+| L'alexandrí no té cesura | **F** (sí que en té, 6+6) | 2025-set |
+| El monòleg implica finalitat còmica per definició | **F** | 2025-set |
+| El mite té com a protagonistes animals | **F** (això és la faula) | 2025-set |
+| La Renaixença és un moviment del s. XVIII | **F** (s. XIX) | 2025-set |
+| «La pàtria» és d'Aribau | **V** (no de Verdaguer) | 2025-set |
+
+## Verbs irregulars en registre formal — recopilació PAU 2022-2025
+
+| Infinitiu | Forma demanada | Conv. |
+|---|---|---|
+| coure | cogut / cuit (participi) | 2024-set, 2025 |
+| cabre | cabut / cabéssim | 2024 |
+| voler (imp. neg. 2pl) | no vulgueu | múltiples |
+| treure | trauria, traieu | 2022, 2024 |
+| moldre | molt (participi) | 2024 |
+| fondre | fongués | 2024 |
+| jeure | jagut | 2023-set |
+| complaure | complaïa | 2025-jun |
+| collir | cullis | 2025-jun |
+| absoldre | absolt | 2025-jun |
+| concloure | conclòs | 2025-set |
+| difondre | difós | 2022-jun |
+| excloure | exclosos | 2024-set |
+| escollir | escull/escolleix | 2023-jun |
+| respondre | responeu | 2023-set |
+| aparèixer | apareixent (gerundi) | 2022-set |
+| poder (subj.) | pugueu | 2025-set |
+| beure (imp. 2pl) | begueu | 2025-set |
+| saber | conec, sabessis, sabies | múltiples |
+| donar (subj.) | doni / donés | múltiples |
+| fer (subj.) | facis / faces / faci | 2022, 2025 |
+
 ## Fonts
 - [[src-temari-2batx-md]] (capítols *Examen* i *Model de preguntes PAU*)
-- [[PAU 2023 juny]] — V/F lectures obligatòries (solucionari oficial)
-- [[PAU 2024 juny]] — V/F lectures obligatòries i coneixements literaris (solucionari oficial)
+- [[PAU 2022 juny]], [[PAU 2022 setembre]] — solucionaris oficials
+- [[PAU 2023 juny]], [[PAU 2023 setembre]] — solucionaris oficials
+- [[PAU 2024 juny]], [[PAU 2024 setembre]] — solucionaris oficials
+- [[PAU 2025 juny]], [[PAU 2025 setembre]] — solucionaris oficials
