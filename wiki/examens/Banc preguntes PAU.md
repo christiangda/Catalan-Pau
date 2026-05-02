@@ -154,5 +154,56 @@ Recopilació de preguntes model amb resposta sintètica. Útil per a repàs.
 | A la postguerra molts autors van escriure des de l'exili (Calders, Rodoreda) | **V** |
 | Pere Calders = realista | **F** (realisme màgic) |
 
+## V/F *La plaça del Diamant* (Mercè Rodoreda) — de l'examen oficial
+
+| Afirmació | V/F | Font |
+|---|---|---|
+| La novel·la està escrita en primera persona. | **V** | 2023-juny S1-A |
+| La Natàlia és òrfena de pare i mare. | **F** | 2023-juny S1-A |
+| La Natàlia sempre s'aturava a la botiga per mirar les nines. | **V** | 2023-juny S1-A |
+| En Quimet tracta la Natàlia d'una manera molt possessiva. | **V** | 2023-juny S1-A |
+| L'Antoni, l'adroguer, abans de casar-s'hi, va oferir a la Natàlia de treballar de dependenta. | **F** | 2023-juny S1-A |
+| En Quimet era una persona autoritària. | **V** | 2023-juny S1-B |
+| La Natàlia i en Quimet compraven les veces dels coloms a l'Antoni, l'adroguer. | **V** | 2023-juny S1-B |
+| La senyora Enriqueta, a l'estiu i a l'hivern, sols venia cacauets i xufles. | **F** *(a l'estiu venia altres coses)* | 2023-juny S1-B |
+| La filla de la Natàlia i en Quimet es deia Julieta. | **F** *(Rita)* | 2023-juny S1-B |
+| La mare d'en Quimet va morir després que esclatés la Guerra Civil. | **F** | 2023-juny S1-B |
+| Tota l'acció de la novel·la té lloc en l'època de la postguerra. | **F** *(comença a la preguerra)* | 2023-juny S5-A |
+| Els pares sempre anomenaven la seva filla Natàlia Colometa. | **F** *(Quimet li posa el malnom)* | 2023-juny S5-A |
+| La Natàlia se sentia cohibida i anul·lada davant en Quimet. | **V** | 2023-juny S5-A |
+| Abans de casar-se amb l'Antoni, l'adroguer, la Natàlia treballava per a ell. | **V** | 2023-juny S5-A |
+| L'Antoni, el fill de la Natàlia, no va voler ser botiguer. | **F** | 2023-juny S5-A |
+| La Natàlia i en Quimet es van conèixer a la pastisseria on treballava la Natàlia. | **F** | 2023-juny S5-B |
+| En Quimet es volia fer ric amb la cria de coloms. | **V** | 2023-juny S5-B |
+| En Quimet va marxar al front a lluitar amb el bàndol nacional. | **F** *(bàndol republicà)* | 2023-juny S5-B |
+| Quan en Quimet va al front, la Natàlia ja no el va tornar a veure. | **F** *(el torna a veure quan torna del front)* | 2023-juny S5-B |
+| La Natàlia tenia por de dir als seus fills que es tornaria a casar. | **V** | 2023-juny S5-B |
+
+## V/F *Aigües encantades* (Joan Puig i Ferreter) — de l'examen oficial
+
+| Afirmació | V/F | Font |
+|---|---|---|
+| A *Aigües encantades* es contraposen l'individu i la societat. | **V** | 2023-juny S1-A |
+| La Juliana no és una dona religiosa. | **F** *(és molt religiosa)* | 2023-juny S1-A |
+| A la processó que es fa per demanar que plogui, els homes van descalços. | **V** | 2023-juny S1-A |
+| El pare de la Cecília es nega a pagar-li l'any de carrera que li falta. | **V** | 2023-juny S1-A |
+| En Pere Amat modifica, a la fi de l'obra, la seva actitud hostil envers el Foraster. | **F** | 2023-juny S1-A |
+| El mossèn retrau a la Juliana que hagi deixat estudiar la seva filla. | **V** | 2023-juny S1-B |
+| La Cecília està acompanyada quan en Vergés va a veure-la a l'inici de l'obra. | **F** | 2023-juny S1-B |
+| El Foraster, en arribar al poble, s'adreça a la casa d'en Pere Amat. | **F** | 2023-juny S1-B |
+| En Joan Gatell és el metge del poble. | **F** | 2023-juny S1-B |
+| El marit de la Juliana és molt més intransigent que ella. | **V** | 2023-juny S1-B |
+| L'obra retrata una societat rural conformista. | **V** | 2023-juny S5-A |
+| Al poble, l'alcalde té més poder que el mossèn. | **F** *(el mossèn en té més)* | 2023-juny S5-A |
+| En Romanill viu apartat del poble i en contacte amb la natura. | **V** | 2023-juny S5-A |
+| L'aigua en moviment simbolitza l'evolució i el progrés. | **V** | 2023-juny S5-A |
+| En l'obra, els valors positius del Foraster estan associats a la tradició i al conservadorisme. | **F** *(al progrés i la llibertat)* | 2023-juny S5-A |
+| En la processó que es fa al començament de l'obra, es prega que s'acabi la sequera. | **V** | 2023-juny S5-B |
+| La Cecília admira la seva mare perquè és una dona valenta. | **F** | 2023-juny S5-B |
+| El Foraster, quan arriba al poble, s'adreça a la casa d'en Romanill. | **F** | 2023-juny S5-B |
+| El que decanta el poble contra el Foraster és la pluja sobtada que cau. | **V** | 2023-juny S5-B |
+| En l'obra es compara la Cecília amb un ocell que fuig del niu. | **V** | 2023-juny S5-B |
+
 ## Fonts
 - [[src-temari-2batx-md]] (capítols *Examen* i *Model de preguntes PAU*)
+- [[PAU 2023 juny]] — V/F lectures obligatòries (solucionari oficial)
