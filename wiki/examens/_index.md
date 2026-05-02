@@ -26,8 +26,9 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 
 ## Patrons recurrents
 
-- Les **lectures obligatòries** apareixen a 1.5 (triar 2 de 4). *La plaça del Diamant* i *Aigües encantades* han aparegut a les convocatòries 2022 i 2024.
-- L'exercici **2.1** canvia sistemàticament temps verbals: passat perifràstic ↔ passat simple, o present ↔ imperfet.
-- La **reflexió lingüística** (part 3, comuna) val 3 punts i inclou sempre: funcions sintàctiques (3.1), confusibles (3.2), formes verbals (3.3), fonètica (3.4), derivació lèxica (3.5).
-- Les **faltes d'ortografia** resten 0,1 per falta, sense límit, sobre el total de l'examen.
-- El text de l'**Opció A** sol ser literari (narratiu/assaig); el de l'**Opció B** sol ser expositiu o argumentatiu.
+- Les **lectures obligatòries** apareixen a 1.5 (triar 2 de 4). *La plaça del Diamant* i *Aigües encantades* han aparegut a les convocatòries 2022 i 2024. El 2025 no va aparèixer cap pregunta explícita de lectura obligatòria.
+- L'exercici **4.1** (2025) / **2.1** (2022, 2024) sol demanar canvi de temps verbals: present → imperfet, o passat perifràstic ↔ passat simple.
+- La **reflexió lingüística** (part 3) val 3 punts i inclou sistemàticament: funcions sintàctiques (Bloc 1), parells confusos, formes verbals en registre formal, grafies de sons específics, derivació lèxica, correcció ortogràfica, dialectes.
+- Les **faltes d'ortografia** resten 0,1 per falta fins a −2 pt en total sobre tots els exercicis d'expressió escrita (2025: explícit al solucionari).
+- El **text proposat** (2025) és d'actualitat social-ambiental, tipologia argumentativa-expositiva; l'autor no és un escriptor literari clàssic.
+- L'**exercici de redacció** (4.2, 2025) és formal, 125–150 paraules, tema vinculat al text proposat (turisme massiu com a extensió del tema gentrificació).
