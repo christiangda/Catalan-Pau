@@ -15,6 +15,9 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 
 ## Per any
 
+### 2025
+- [[PAU 2025 juny]] ✅ — Sèrie 1, conv. ordinària. Text: Joan Maria Boronat i Pujals, «La gentrificació verda, el perill obviat» (argumentatiu-expositiu). Poema Bloc 1: [[Joan Alcover]], «Desolació» (sonet alexandrí, polisíndeton, hipèrbaton). Reflexió: funcions sint., parells confusos, verbs irregulars, grafies [tʃ], derivació nominal, correcció ortogràfica, dialecte rossellonès. Expressió: reescriptura present→imperfet + text formal turisme massiu.
+
 ### 2024
 - [[PAU 2024 setembre]] ✅ — Sèrie 3, conv. extraordinària. Op. A: Josep Pla «Una aventura al canal» (narratiu literari). Op. B: text sobre el metavers (expositiu-divulgatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
