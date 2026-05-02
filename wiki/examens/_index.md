@@ -31,7 +31,7 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 - [[PAU 2022 juny]] ✅ — Sèries 2 i 5, conv. ordinària. S2A: "Nocturn" Jaume Cabré (narratiu literari). S2B: article Anna Reig (divulgatiu, avatars clínics). S5A: *Nadal a Porto* Teresa Pàmies (narratiu). S5B: Paula Solanas (expositiu, economia circular). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 - [[PAU 2022 setembre]] ✅ — Sèrie 3. Opció A: Baltasar Porcel (narratiu). Opció B: Jordi Pueyo Busquets (argumentatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
-## Patrons recurrents
+## Patrons recurrents (actualitzat 2026-05-02)
 
 - Les **lectures obligatòries** apareixen a 1.5 (triar 2 de 4). *La plaça del Diamant* i *Aigües encantades* han aparegut a les convocatòries 2022 i 2024. El 2025 no va aparèixer cap pregunta explícita de lectura obligatòria.
 - L'exercici **4.1** (2025) / **2.1** (2022, 2024) sol demanar canvi de temps verbals: present → imperfet, o passat perifràstic ↔ passat simple.
