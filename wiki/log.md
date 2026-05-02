@@ -10,6 +10,29 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-02 — Síntesi tanda 5: patrons PAU 2022-2025
+
+Després d'ingerir 8 convocatòries en paral·lel, síntesi de patrons + creació d'stubs crítics.
+
+**Stubs nous (alta prioritat PAU):**
+- ⭐ [[La placa del Diamant|La plaça del Diamant]] (`wiki/obres/`) — fitxa completa amb argument, personatges, símbols, narrador, estructura. Era la pàgina més referenciada al wiki sense fitxa.
+- ⭐ [[Aigues encantades|Aigües encantades]] (`wiki/obres/`) — fitxa completa amb conflictes, símbols, taula de confusions PAU freqüents.
+- [[Joan Puig i Ferreter]] (`wiki/autors/`) — autor de *Aigües encantades* (no tenia fitxa).
+- [[Joan Alcover]] (`wiki/autors/`) — poeta del PAU 2025 juny.
+
+**Pàgines enriquides amb síntesi:**
+- [[examens/_index]] — taula consolidada per any (8 convocatòries × text proposat × lectures × dialecte); secció *Canvi de format 2025* (no lectures, sí figures + dialecte + correcció ortogràfica); estructura del bloc gramatical 5×6; trampes solucionari; errors materials del solucionari oficial detectats.
+- [[Banc preguntes PAU]] — secció *Patrons clau PAU 2022-2025*; secció *Trampes del solucionari oficial*; V/F coneixements 2025 setembre; **taula consolidada de 21 verbs irregulars** demanats al registre formal 2022-2025.
+- [[obres/_index]] — entrades a *La plaça del Diamant* i *Aigües encantades*.
+
+**Insights consolidats:**
+- 2022-2024 (6 convocatòries): [[La placa del Diamant|Plaça]] + [[Aigues encantades|Aigües]] presents a TOTES les sèries i opcions.
+- 2025 trenca el patró: 0 lectures obligatòries; bloc literari amb poema + figures retòriques; identificació dialectal (rossellonès/nord-occidental); correcció ortogràfica de 5 errors.
+- Bloc gramatical sistemàtic 5×6: funcions sint. + parells confusos + verbs irregulars + grafies + derivacions (+ a 2025: + ortografia + dialecte).
+- Trampa nova 2025: subratllar més elements dels demanats = 0 punts automàtic a la pregunta sencera.
+
+---
+
 ## 2026-05-02 — Ingest: PAU 2025 setembre (convocatòria extraordinària)
 
 **Fonts:** `.raw/examens-pau/Enunciat 2025 septembre.pdf` + `Solucio 2025 septembra.pdf` (Sèrie 3)
