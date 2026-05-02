@@ -28,7 +28,7 @@ updated: 2026-05-01
 
 - [[Angel Guimera|Guimerà]], *Terra baixa* (1897), *Sol solet* (1905), *La filla del mar* (1900)
 - [[Josep Maria de Sagarra]], *El cafè de la Marina* (1933)
-- [[Josep M. Benet i Jornet]], *El manuscrit d'Ali Bei* (1985), *Fugaç* (1994)
+- [[Josep M Benet i Jornet]], *El manuscrit d'Ali Bei* (1985), *Fugaç* (1994)
 - Caterina Albert ([[Victor Catala|Víctor Català]]), *La infanticida* (1898)
 - Joan Puig i Ferreter, *Aigües encantades* (1907)
 - Sòfocles, *Èdip rei* · Shakespeare, *Hamlet* (1601)
