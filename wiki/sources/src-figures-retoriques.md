@@ -19,7 +19,7 @@ Document de 5 pàgines que recull les figures retòriques del temari de Llengua 
 - **Figures relacionades amb la lògica**: apòstrofe, hipèrbole, ironia, personificació, prosopopeia
 
 ## Autors citats com a exemples
-[[Josep Maria de Sagarra]], [[Salvador Espriu]], [[Jacint Verdaguer]], [[J.V. Foix]], [[Joan Maragall]], [[Miquel Martí i Pol]], [[Pere Quart]], [[Carles Riba]], [[Ausiàs Marc]], [[Guerau de Liost]], [[Joan Salvat-Papasseit]], [[Josep Carner]], [[Ramon Llull]], [[Gabriel Ferrater]], [[Joan Vinyoli]], [[Maria Mercè Marçal]], [[Jordi de Sant Jordi]], [[Francesc Vicenç Garcia]]
+[[Josep Maria de Sagarra]], [[Salvador Espriu]], [[Jacint Verdaguer]], [[J.V. Foix]], [[Joan Maragall]], [[Miquel Marti i Pol|Miquel Martí i Pol]], [[Pere Quart]], [[Carles Riba]], [[Ausiàs March]], [[Guerau de Liost]], [[Joan Salvat-Papasseit]], [[Josep Carner]], [[Ramon Llull]], [[Gabriel Ferrater]], [[Joan Vinyoli]], [[Maria-Merce Marcal|Maria Mercè Marçal]], [[Jordi de Sant Jordi]], [[Francesc Vicent Garcia]]
 
 ## Pàgina derivada
 - [[Figures retoriques]]
