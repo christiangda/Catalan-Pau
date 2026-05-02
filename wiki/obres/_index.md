@@ -10,7 +10,9 @@ tags: [obres]
 Un fitxer per obra: argument, personatges, temes, estructura, fragments clau, possibles preguntes d'examen.
 
 ## Llista
-- ⭐ [[Mirall trencat]] — Mercè Rodoreda (lectura obligatòria confirmada)
+- ⭐ [[Mirall trencat]] — Mercè Rodoreda (lectura obligatòria confirmada del curs)
+- [[La placa del Diamant|La plaça del Diamant]] — Mercè Rodoreda (referència PAU 2022-2024 a totes les convocatòries)
+- [[Aigues encantades|Aigües encantades]] — Joan Puig i Ferreter (referència PAU 2022-2024 a totes les convocatòries)
 
 ## Què cal saber per a cada obra
 - Context històric i biogràfic de l'autor
