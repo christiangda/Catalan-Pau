@@ -21,9 +21,6 @@ Notes sobre regles, normes i convencions de la llengua catalana.
 - [[Correlacions verbals]] — oracions condicionals, taula de correlacions, errors normatius (PAU)
 - [[Fonetica - canvis fonetics]] — canvi de mode/punt d'articulació, ensordiment, sonorització, emmudiment, geminació
 
-## Morfologia — Verbs
-- [[Els verbs]] ⭐ — 3 conjugacions (1a -ar, 2a -er/-re, 3a -ir), irregularitats (ortogràfiques/eufòniques/lexemàtiques), participis i gerundis irregulars, formes no personals, perífrasis verbals, *ser/estar*, verbs pronominals, doblets verbals, errors PAU
-
 ## Morfologia — Categories gramaticals
 - [[Morfologia]] ⭐ `mature` — categories gramaticals completes: substantiu (gènere/nombre, gèneres dobles *el llum/la llum*, llista de masculins/femenins difícils); adjectiu (dues/una terminació, graus, valoratius vs. classificadors); determinants (article, demostratius, possessius tònics/àtons, numerals, quantitatius, indefinits, funció pronominal); pronoms tònics + interrogatius; adverbis (manera, temps, lloc, quantitat, afirmació, dubte, negació, modalitzadors; PAU: *inclús→fins, igual→potser, molt/gaire, bastant/prou, gens/res*); preposicions (*a/de/en/amb/per/per a*; per+inf causa vs per a+inf finalitat; CD/CI; CRV; expressions de lloc i temps; fortes simples i compostes; locucions prepositives; PAU: *degut a, com a, quant a, a mitjan, tocant a*); conjuncions; interjecció; formació de mots (derivació, composició, parasíntesi, abreviacions, neologismes); taula d'errors PAU
 
