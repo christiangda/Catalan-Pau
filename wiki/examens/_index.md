@@ -33,7 +33,7 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 
 ## Patrons recurrents (actualitzat 2026-05-02)
 
-- Les **lectures obligatòries** apareixen a 1.5 (triar 2 de 4). *La plaça del Diamant* i *Aigües encantades* han aparegut a les convocatòries 2022 i 2024. El 2025 no va aparèixer cap pregunta explícita de lectura obligatòria.
+- Les **lectures obligatòries** poden aparèixer o no. *La plaça del Diamant* i *Aigües encantades* han aparegut a les convocatòries 2022 i 2024. La PAU 2025 (juny i setembre, sèrie 3) no va incloure cap pregunta explícita de lectura obligatòria; el poema Bloc 1 era de Josep Carner.
 - L'exercici **4.1** (2025) / **2.1** (2022, 2024) sol demanar canvi de temps verbals: present → imperfet, o passat perifràstic ↔ passat simple.
 - La **reflexió lingüística** (part 3) val 3 punts i inclou sistemàticament: funcions sintàctiques (Bloc 1), parells confusos, formes verbals en registre formal, grafies de sons específics, derivació lèxica, correcció ortogràfica, dialectes.
 - Les **faltes d'ortografia** resten 0,1 per falta fins a −2 pt en total sobre tots els exercicis d'expressió escrita (2025: explícit al solucionari).
