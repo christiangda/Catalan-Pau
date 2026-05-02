@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Autors"
-updated: 2026-05-01
+updated: 2026-05-02
 tags: [autors]
 ---
 
@@ -12,7 +12,7 @@ tags: [autors]
 - [[Ramon Llull]] — pensament medieval
 - [[Jaume I]] · [[Bernat Desclot]] · [[Ramon Muntaner]] · [[Pere III el Cerimoniós]] — [[Croniques|Cròniques]]
 - [[Bernat Metge]] — [[Humanisme]]
-- [[Ausiàs March]] — [[Lirica-Ausias-March|Lírica medieval]]
+- [[Jordi de Sant Jordi]] · [[Ausiàs March]] — [[Lirica-Ausias-March|Lírica medieval]]
 - [[Joanot Martorell]] — [[Novel-la-cavalleresca|Novel·la cavalleresca]]
 
 ## Edat Moderna (s. XVI–XVIII)
