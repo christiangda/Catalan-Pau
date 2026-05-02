@@ -21,9 +21,9 @@ Anàlisi any per any: tipus de text, preguntes recurrents, dificultat, errors co
 - [[PAU 2022 setembre]] ✅ — Sèrie 3. Opció A: Baltasar Porcel (narratiu). Opció B: Jordi Pueyo Busquets (argumentatiu). Lectures: *La plaça del Diamant* + *Aigües encantades*.
 
 ## Patrons recurrents
-_(a omplir un cop ingerits diversos exàmens)_
 
-### Observacions inicials (2022 setembre)
-- Les lectures obligatòries apareixen a la secció 1.5 (2 de 3 a triar).
-- La part d'expressió escrita (2.1) consisteix en reescriure un fragment del text proposat canviant el temps verbal (present → passat imperfet).
-- La reflexió lingüística (part 3) és **comuna** a les dues opcions i inclou sempre: funcions sintàctiques, parelles confusibles, formes verbals, fonètica i derivació lèxica.
+- Les **lectures obligatòries** apareixen a 1.5 (triar 2 de 4). *La plaça del Diamant* i *Aigües encantades* han aparegut a les convocatòries 2022 i 2024.
+- L'exercici **2.1** canvia sistemàticament temps verbals: passat perifràstic ↔ passat simple, o present ↔ imperfet.
+- La **reflexió lingüística** (part 3, comuna) val 3 punts i inclou sempre: funcions sintàctiques (3.1), confusibles (3.2), formes verbals (3.3), fonètica (3.4), derivació lèxica (3.5).
+- Les **faltes d'ortografia** resten 0,1 per falta, sense límit, sobre el total de l'examen.
+- El text de l'**Opció A** sol ser literari (narratiu/assaig); el de l'**Opció B** sol ser expositiu o argumentatiu.
