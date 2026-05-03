@@ -10,6 +10,29 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-03 — Ingest: 5 poemes (anàlisi mètrica, rima, tema, figures, tòpic)
+
+Ingerides imatges de 5 poemes d'una antologia escolar (eixos temàtics *Amor / Natura / Pàtria / Quotidianitat / Autoretrats / Creació poètica*). Per a cada poema: fitxa completa amb tema, estructura, mètrica, esquema de rima, tòpic literari, figures retòriques (taula), símbols i lèxic clau.
+
+**Pàgines creades** (`wiki/obres/`):
+- [[Vinyes verdes vora el mar]] — Josep Maria de Sagarra (1923, *Cançons de rem i de vela*) · *natura* · 6 quintets heptasíl·labs A-B-A-B-A amb refrany intern
+- [[Cambra de tardor]] — Gabriel Ferrater (1960, *Da nuces pueris* / *Les dones i els dies*) · *amor* · vers lliure / decasíl·labs blanc
+- [[L'Elionor]] — Miquel Martí i Pol (1972, *La fàbrica*) · *quotidianitat* · vers lliure, estructura circular, denúncia social
+- [[Corrandes d'exili]] — Pere Quart (1947, *Saló de tardor*) · *pàtria* · 8 estrofes (corrandes 4v + quintets 5v) heptasíl·labs
+- [[A Mallorca, durant la guerra civil]] — Bartomeu Rosselló-Pòrcel (1937, *Imitació del foc*) · *pàtria* · vers lliure / decasíl·labs
+
+**Stub d'autor creat** (`wiki/autors/`):
+- [[Bartomeu Rossello-Porcel]] (1913–1938) — postsimbolista mallorquí, mort de tuberculosi als 24 anys
+
+**Pàgines actualitzades:**
+- [[obres/_index]] — separat en *Narrativa i teatre* + *Poesia*; afegits els 5 poemes
+- [[autors/_index]] — afegit Rosselló-Pòrcel a la línia d'Avantguardes
+- [[index]] — comptador 152→158, nova secció *Poemes analitzats*
+
+**Tòpics literaris recurrents detectats:** locus amoenus (Vinyes, Mallorca), beatus ille (Mallorca, Corrandes), ubi sunt (Corrandes, Mallorca), carpe diem + tempus fugit (Cambra), tempus fugit + cicle vital (L'Elionor), paradoxa de l'enyor (Corrandes: "no em moriré d'enyorança / ans d'enyorança viuré").
+
+---
+
 ## 2026-05-03 — GitHub remote + auto-push hook
 
 - Remote `origin` afegit: `https://github.com/Sevthered/Catalan-Pau.git`
