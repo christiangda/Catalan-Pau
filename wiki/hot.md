@@ -1,12 +1,14 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-02T22:00:00
+updated: 2026-05-03
 ---
 
 # Recent Context
 
 ## Last Updated
+**2026-05-03**. Repositori connectat a GitHub: `https://github.com/Sevthered/Catalan-Pau.git` (remote `origin`, branch `main` tracking). Hook `Stop` configurat: cada sessió de Claude fa `git push origin main` automàticament al tancar.
+
 **2026-05-02**. Sessió tancada amb wiki **152 pàgines, lint net** (0 dead links, 0 orfes, 0 backslash artifacts, 0 placeholders). Tanda 5 (PAU 2022-2025, 16 PDFs) ingerida + síntesi de patrons + cleanup mecànic en paral·lel.
 
 ## Estat del wiki
