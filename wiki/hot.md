@@ -7,6 +7,8 @@ updated: 2026-05-03
 # Recent Context
 
 ## Last Updated
+**2026-05-03 (sessió 3)**. *Autoresearch* per cerca web: creada fitxa de ⭐ [[Tot l'enyor de demà]] (Salvat-Papasseit, *L'irradiador del port i les gavines*, 1921), text obtingut i verificat per dues consultes web independents. Font: [[src-tot-lenyor-de-dema]]. Madurada la fitxa de [[Joan Salvat-Papasseit]] (stub→developing). Concepte crític nou al wiki: «**futurisme nostàlgic**».
+
 **2026-05-03 (sessió 2)**. Ingest de **5 poemes** d'una antologia escolar amb anàlisi completa per cadascun (tema, mètrica, rima, tòpic literari, figures retòriques): [[Vinyes verdes vora el mar]] (Sagarra), [[Cambra de tardor]] (Ferrater), [[L'Elionor]] (Martí i Pol), [[Corrandes d'exili]] (Pere Quart), [[A Mallorca, durant la guerra civil]] (Rosselló-Pòrcel). Stub d'autor nou: [[Bartomeu Rossello-Porcel]].
 
 **2026-05-03 (sessió 1)**. Repositori connectat a GitHub: `https://github.com/Sevthered/Catalan-Pau.git` (remote `origin`, branch `main` tracking). Hook `Stop` configurat: cada sessió de Claude fa `git push origin main` automàticament al tancar.
@@ -14,10 +16,10 @@ updated: 2026-05-03
 **2026-05-02**. Sessió tancada amb wiki **152 pàgines, lint net** (0 dead links, 0 orfes, 0 backslash artifacts, 0 placeholders). Tanda 5 (PAU 2022-2025, 16 PDFs) ingerida + síntesi de patrons + cleanup mecànic en paral·lel.
 
 ## Estat del wiki
-- **158 pàgines** (152 + 6 noves: 5 poemes analitzats + 1 autor). Cobertura completa de gramàtica + literatura + 8 convocatòries PAU + 5 poemes amb anàlisi mètrica/figures/tòpic.
+- **160 pàgines** (152 + 8 noves: 6 poemes analitzats + 1 autor + 1 font). Cobertura completa de gramàtica + literatura + 8 convocatòries PAU + 6 poemes amb anàlisi mètrica/figures/tòpic.
 - **Lectura prescriptiva del curs**: ⭐ [[Mirall trencat]] (Rodoreda).
 - **Recurs principal de repàs PAU**: [[Banc preguntes PAU]] — 80+ V/F oficials, taula de 21 verbs irregulars 2022-2025, trampes del solucionari, patrons clau.
-- **Poemes analitzats (eixos temàtics PAU)**: natura, amor, quotidianitat, pàtria (×2). Marc útil per a comentari de text PAU 2025-style.
+- **Poemes analitzats (eixos temàtics PAU)**: vida-mort, natura, amor, quotidianitat, pàtria (×2). Marc útil per a comentari de text PAU 2025-style.
 - **Catàleg mestre**: [[index]] (acabat d'actualitzar).
 
 ## Insights PAU 2022-2025 (clau per a repàs)
@@ -72,5 +74,5 @@ coure→cogut/cuit · cabre→cabut/cabéssim · voler→vulgueu · treure→tra
 - Esborrar [[lint-report-2026-05-01]] o regenerar-lo amb el snapshot 2026-05-02.
 - Stubs d'autors menors PAU sense fitxa: Maria Barbal, Teresa Pàmies, Baltasar Porcel, Jesús Moncada, Xavier Benguerel, Rafael Vallbona (mencions a 1 examen cadascun).
 - **Continuar antologia poètica**: si l'antologia escolar conté més eixos (Autoretrats, La creació poètica), ingerir-los amb el mateix patró.
-- Madurar [[Joan Salvat-Papasseit]] amb fitxa de *Tot l'enyor de demà* (poema canònic sense fitxa pròpia).
-- Lint health-check post-ingest poemes (verificar wikilinks dels 5 poemes nous + Rosselló-Pòrcel).
+- Lint health-check post-ingest poemes (verificar wikilinks dels 6 poemes nous + Rosselló-Pòrcel + Salvat-Papasseit actualitzat + nova font).
+- Cercar fitxes equivalents per a altres poemes canònics PAU sense fitxa: J.V. Foix, Carles Riba (Estances, Elegies de Bierville), Maria-Mercè Marçal, Vicent Andrés Estellés.
