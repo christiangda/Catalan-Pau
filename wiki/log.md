@@ -10,6 +10,15 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-03 — Sync a `main`: 6 poemes + autoresearch publicats
+
+- Branca de treball `claude/update-md-logging-docs-U0esn` mergeada a `main` (PR #1 + commit `663428c`).
+- **Commit de merge:** `7a7ee37` — *Merge: autoresearch — Tot l'enyor de demà (Salvat-Papasseit)*.
+- `main` passa de `e41d3a1` → `7a7ee37`. Push a remote completat.
+- Tot el treball de la sessió ja és visible al repositori principal: 6 poemes analitzats, 1 autor nou ([[Bartomeu Rossello-Porcel]]), 1 autor enriquit ([[Joan Salvat-Papasseit]]), 1 font web ([[src-tot-lenyor-de-dema]]).
+
+---
+
 ## 2026-05-03 — Autoresearch: *Tot l'enyor de demà* (Salvat-Papasseit)
 
 Comanda informal "autoresearch": cerca web per omplir el buit detectat al wiki (poema canònic sense fitxa).

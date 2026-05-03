@@ -7,6 +7,8 @@ updated: 2026-05-03
 # Recent Context
 
 ## Last Updated
+**2026-05-03 (sessió 4)**. Sync a `main`: branca `claude/update-md-logging-docs-U0esn` mergeada (commit `7a7ee37`). Tot el treball de poesia (6 poemes + 2 autors + 1 font) ja és visible a `origin/main`.
+
 **2026-05-03 (sessió 3)**. *Autoresearch* per cerca web: creada fitxa de ⭐ [[Tot l'enyor de demà]] (Salvat-Papasseit, *L'irradiador del port i les gavines*, 1921), text obtingut i verificat per dues consultes web independents. Font: [[src-tot-lenyor-de-dema]]. Madurada la fitxa de [[Joan Salvat-Papasseit]] (stub→developing). Concepte crític nou al wiki: «**futurisme nostàlgic**».
 
 **2026-05-03 (sessió 2)**. Ingest de **5 poemes** d'una antologia escolar amb anàlisi completa per cadascun (tema, mètrica, rima, tòpic literari, figures retòriques): [[Vinyes verdes vora el mar]] (Sagarra), [[Cambra de tardor]] (Ferrater), [[L'Elionor]] (Martí i Pol), [[Corrandes d'exili]] (Pere Quart), [[A Mallorca, durant la guerra civil]] (Rosselló-Pòrcel). Stub d'autor nou: [[Bartomeu Rossello-Porcel]].
