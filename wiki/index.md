@@ -1,12 +1,12 @@
 ---
 type: meta
 title: "Índex"
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # Índex de la Wiki — Català PAU
 
-Catàleg mestre de tots els continguts de la wiki. Estat: **152 pàgines**, 0 orfes (lint 2026-05-02).
+Catàleg mestre de tots els continguts de la wiki. Estat: **158 pàgines** (152 + 6 noves: 5 poemes + 1 autor).
 
 ## Visió general
 - [[overview]] — Resum executiu
@@ -16,8 +16,8 @@ Catàleg mestre de tots els continguts de la wiki. Estat: **152 pàgines**, 0 or
 ## Subdominis
 - [[gramatica/_index|Gramàtica]] — ortografia, morfologia, sintaxi, lèxic
 - [[literatura/_index|Literatura]] — 17 moviments (s. XII → XXI)
-- [[autors/_index|Autors]] — 53 autors
-- [[obres/_index|Obres]] — 6 fitxes d'obres (1 prescriptiva + 5 referenciades)
+- [[autors/_index|Autors]] — 54 autors
+- [[obres/_index|Obres]] — 11 fitxes (1 prescriptiva + 5 narratives + 5 poemes analitzats)
 - [[tecniques/_index|Tècniques]] — narrativa, poesia, teatre, figures retòriques
 - [[sintesi/_index|Síntesis]] — sociolingüística, llengua, tòpics, Jocs Florals
 - [[examens/_index|Exàmens PAU]] — 8 convocatòries 2022-2025 + Banc preguntes
@@ -56,6 +56,13 @@ Catàleg mestre de tots els continguts de la wiki. Estat: **152 pàgines**, 0 or
 - [[La plaça del Diamant]] — Rodoreda (referència PAU 2022-2024)
 - [[Aigües encantades]] — Puig i Ferreter (referència PAU 2022-2024)
 - [[Tirant lo Blanc]] — Martorell · [[Solitud]] — V. Català · [[Oda a la patria|Oda a la pàtria]] — Aribau
+
+## Poemes analitzats (mètrica · rima · tema · figures · tòpic)
+- [[Vinyes verdes vora el mar]] — Sagarra (1923) · *natura*
+- [[Cambra de tardor]] — Ferrater (1960) · *amor*
+- [[L'Elionor]] — Martí i Pol (1972) · *quotidianitat*
+- [[Corrandes d'exili]] — Pere Quart (1947) · *pàtria*
+- [[A Mallorca, durant la guerra civil]] — Rosselló-Pòrcel (1937) · *pàtria*
 
 ## Exàmens PAU 2022-2025 (8 convocatòries ingerides)
 - ⭐ [[Banc preguntes PAU]] — recurs principal de repàs

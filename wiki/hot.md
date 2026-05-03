@@ -7,14 +7,17 @@ updated: 2026-05-03
 # Recent Context
 
 ## Last Updated
-**2026-05-03**. Repositori connectat a GitHub: `https://github.com/Sevthered/Catalan-Pau.git` (remote `origin`, branch `main` tracking). Hook `Stop` configurat: cada sessió de Claude fa `git push origin main` automàticament al tancar.
+**2026-05-03 (sessió 2)**. Ingest de **5 poemes** d'una antologia escolar amb anàlisi completa per cadascun (tema, mètrica, rima, tòpic literari, figures retòriques): [[Vinyes verdes vora el mar]] (Sagarra), [[Cambra de tardor]] (Ferrater), [[L'Elionor]] (Martí i Pol), [[Corrandes d'exili]] (Pere Quart), [[A Mallorca, durant la guerra civil]] (Rosselló-Pòrcel). Stub d'autor nou: [[Bartomeu Rossello-Porcel]].
+
+**2026-05-03 (sessió 1)**. Repositori connectat a GitHub: `https://github.com/Sevthered/Catalan-Pau.git` (remote `origin`, branch `main` tracking). Hook `Stop` configurat: cada sessió de Claude fa `git push origin main` automàticament al tancar.
 
 **2026-05-02**. Sessió tancada amb wiki **152 pàgines, lint net** (0 dead links, 0 orfes, 0 backslash artifacts, 0 placeholders). Tanda 5 (PAU 2022-2025, 16 PDFs) ingerida + síntesi de patrons + cleanup mecànic en paral·lel.
 
 ## Estat del wiki
-- **152 pàgines** (vs 121 al lint anterior). Cobertura completa de gramàtica + literatura + 8 convocatòries PAU.
+- **158 pàgines** (152 + 6 noves: 5 poemes analitzats + 1 autor). Cobertura completa de gramàtica + literatura + 8 convocatòries PAU + 5 poemes amb anàlisi mètrica/figures/tòpic.
 - **Lectura prescriptiva del curs**: ⭐ [[Mirall trencat]] (Rodoreda).
 - **Recurs principal de repàs PAU**: [[Banc preguntes PAU]] — 80+ V/F oficials, taula de 21 verbs irregulars 2022-2025, trampes del solucionari, patrons clau.
+- **Poemes analitzats (eixos temàtics PAU)**: natura, amor, quotidianitat, pàtria (×2). Marc útil per a comentari de text PAU 2025-style.
 - **Catàleg mestre**: [[index]] (acabat d'actualitzar).
 
 ## Insights PAU 2022-2025 (clau per a repàs)
@@ -68,3 +71,6 @@ coure→cogut/cuit · cabre→cabut/cabéssim · voler→vulgueu · treure→tra
 - Possibles fitxes de figures retòriques individuals (metàfora, hipèrbole, anàfora).
 - Esborrar [[lint-report-2026-05-01]] o regenerar-lo amb el snapshot 2026-05-02.
 - Stubs d'autors menors PAU sense fitxa: Maria Barbal, Teresa Pàmies, Baltasar Porcel, Jesús Moncada, Xavier Benguerel, Rafael Vallbona (mencions a 1 examen cadascun).
+- **Continuar antologia poètica**: si l'antologia escolar conté més eixos (Autoretrats, La creació poètica), ingerir-los amb el mateix patró.
+- Madurar [[Joan Salvat-Papasseit]] amb fitxa de *Tot l'enyor de demà* (poema canònic sense fitxa pròpia).
+- Lint health-check post-ingest poemes (verificar wikilinks dels 5 poemes nous + Rosselló-Pòrcel).
