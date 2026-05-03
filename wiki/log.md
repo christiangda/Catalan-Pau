@@ -1,12 +1,20 @@
 ---
 type: meta
 title: "Log"
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # Log d'operacions
 
 Registre cronològic de tots els canvis a la wiki. Append-only — noves entrades a dalt.
+
+---
+
+## 2026-05-03 — GitHub remote + auto-push hook
+
+- Remote `origin` afegit: `https://github.com/Sevthered/Catalan-Pau.git`
+- `main` empès per primera vegada amb tots els auto-commits històrics; tracking branch configurat.
+- Hook `Stop` afegit a `.claude/settings.json`: cada cop que Claude tanca una sessió, executa `git push origin main` (silenciós si no hi ha res nou).
 
 ---
 
