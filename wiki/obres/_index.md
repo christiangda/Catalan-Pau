@@ -18,6 +18,7 @@ Un fitxer per obra: argument, personatges, temes, estructura, fragments clau, po
 
 ## Poesia
 - [[Oda a la patria|Oda a la pàtria]] — B.C. Aribau (text fundacional Renaixença)
+- [[Tot l'enyor de demà]] — Joan Salvat-Papasseit (1921) · *vida-mort / quotidianitat* · vers lliure, polisíndeton anafòric
 - [[Vinyes verdes vora el mar]] — Josep Maria de Sagarra (1923) · *natura* · heptasíl·labs A-B-A-B-A
 - [[Cambra de tardor]] — Gabriel Ferrater (1960) · *amor* · vers lliure / decasíl·labs
 - [[L'Elionor]] — Miquel Martí i Pol (1972) · *quotidianitat* · vers lliure, estructura circular

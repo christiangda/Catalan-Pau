@@ -6,7 +6,7 @@ updated: 2026-05-03
 
 # Índex de la Wiki — Català PAU
 
-Catàleg mestre de tots els continguts de la wiki. Estat: **158 pàgines** (152 + 6 noves: 5 poemes + 1 autor).
+Catàleg mestre de tots els continguts de la wiki. Estat: **160 pàgines** (152 + 8 noves: 6 poemes + 1 autor + 1 font).
 
 ## Visió general
 - [[overview]] — Resum executiu
@@ -17,7 +17,7 @@ Catàleg mestre de tots els continguts de la wiki. Estat: **158 pàgines** (152 
 - [[gramatica/_index|Gramàtica]] — ortografia, morfologia, sintaxi, lèxic
 - [[literatura/_index|Literatura]] — 17 moviments (s. XII → XXI)
 - [[autors/_index|Autors]] — 54 autors
-- [[obres/_index|Obres]] — 11 fitxes (1 prescriptiva + 5 narratives + 5 poemes analitzats)
+- [[obres/_index|Obres]] — 12 fitxes (1 prescriptiva + 5 narratives + 6 poemes analitzats)
 - [[tecniques/_index|Tècniques]] — narrativa, poesia, teatre, figures retòriques
 - [[sintesi/_index|Síntesis]] — sociolingüística, llengua, tòpics, Jocs Florals
 - [[examens/_index|Exàmens PAU]] — 8 convocatòries 2022-2025 + Banc preguntes
@@ -58,6 +58,7 @@ Catàleg mestre de tots els continguts de la wiki. Estat: **158 pàgines** (152 
 - [[Tirant lo Blanc]] — Martorell · [[Solitud]] — V. Català · [[Oda a la patria|Oda a la pàtria]] — Aribau
 
 ## Poemes analitzats (mètrica · rima · tema · figures · tòpic)
+- [[Tot l'enyor de demà]] — Salvat-Papasseit (1921) · *vida-mort*
 - [[Vinyes verdes vora el mar]] — Sagarra (1923) · *natura*
 - [[Cambra de tardor]] — Ferrater (1960) · *amor*
 - [[L'Elionor]] — Martí i Pol (1972) · *quotidianitat*
@@ -82,6 +83,7 @@ Catàleg mestre de tots els continguts de la wiki. Estat: **158 pàgines** (152 
 ### Temari literatura
 - [[src-narrativa-sulla]] · [[src-text-narratiu-pdf]] · [[src-poesia-pdf]] · [[src-teatre-pdf]]
 - [[src-autors-XII-XVIII]] · [[src-autors-XIX-XXI]] · [[src-moviments-XII-XVIII]] · [[src-moviments-XVIII-XXI]]
+- [[src-tot-lenyor-de-dema]] (cerca web)
 
 ### Exàmens PAU oficials
 - [[src-pau-2025-juny]] · [[src-pau-2025-setembre]]

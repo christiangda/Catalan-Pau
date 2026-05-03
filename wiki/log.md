@@ -10,6 +10,29 @@ Registre cronològic de tots els canvis a la wiki. Append-only — noves entrade
 
 ---
 
+## 2026-05-03 — Autoresearch: *Tot l'enyor de demà* (Salvat-Papasseit)
+
+Comanda informal "autoresearch": cerca web per omplir el buit detectat al wiki (poema canònic sense fitxa).
+
+**Procés:**
+1. Cerca web del text complet (Google) — múltiples fonts consultades.
+2. Verificació creuada (paraula clau "baume" vs "bàlsam", presència del vocatiu "amics").
+3. Confirmació de dades bibliogràfiques: *L'irradiador del port i les gavines* (1921), no *La gesta dels estels* com s'havia conjecturat inicialment.
+
+**Pàgines creades:**
+- ⭐ [[Tot l'enyor de demà]] (`wiki/obres/`) — fitxa completa: tema (vitalisme + memento mori), 5 estrofes, vers lliure, polisíndeton anafòric, taula de figures retòriques, símbols, tòpics (carpe diem projectat, memento mori, beatus ille, "enyor del que ha de venir").
+- [[src-tot-lenyor-de-dema]] (`wiki/sources/`) — font web amb avís de fiabilitat.
+- `.raw/poemes/tot-lenyor-de-dema_salvat-papasseit.txt` — text complet preservat.
+
+**Pàgines actualitzades:**
+- [[Joan Salvat-Papasseit]] — `status` stub→developing, biografia ampliada, 6 obres principals amb anys, secció *Trets característics*, cross-link a [[Tot l'enyor de demà]].
+- [[obres/_index]] — afegit a la secció Poesia (en ordre cronològic 1921).
+- [[index]] — comptador 158→160; secció *Poemes analitzats* ampliada; afegit a Fonts.
+
+**Insight crític**: el poema encaixa amb la categoria de **«futurisme nostàlgic»** (terme de la crítica) — modernitat (aeroplà, tramvies) feta tendresa des de la malaltia. Comparteix la **premonició de la mort** amb [[A Mallorca, durant la guerra civil]] (Rosselló-Pòrcel) i l'**atenció a la quotidianitat** amb [[L'Elionor]] (Martí i Pol).
+
+---
+
 ## 2026-05-03 — Ingest: 5 poemes (anàlisi mètrica, rima, tema, figures, tòpic)
 
 Ingerides imatges de 5 poemes d'una antologia escolar (eixos temàtics *Amor / Natura / Pàtria / Quotidianitat / Autoretrats / Creació poètica*). Per a cada poema: fitxa completa amb tema, estructura, mètrica, esquema de rima, tòpic literari, figures retòriques (taula), símbols i lèxic clau.
